@@ -1,0 +1,209 @@
+source_doc,order_index,text_preview,label_suggestion,font_size,is_bold,is_italic,alignment,indent_left,indent_first_line,space_before,space_after,line_spacing,is_all_caps,starts_with_number,word_count,position_ratio_in_doc,style_name_hash,has_image,is_table_element
+chapter_01_ml_pipelines.docx,0,Chapter 5,Chapter Heading,14.0,1,0,1,0.0,0.0,0.0,2.0,1.0,0,0,2,0.0,0,0,0
+chapter_01_ml_pipelines.docx,1,Designing Robust Machine Learning Pipelines,Chapter Heading,20.0,1,0,1,0.0,0.0,0.0,24.0,1.0,0,0,5,0.0435,0,0,0
+chapter_01_ml_pipelines.docx,2,Why Pipelines Break,Subheading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,0,3,0.087,0,0,0
+chapter_01_ml_pipelines.docx,3,Most production ML failures are not model failures -- they are pipeline failures,Body Paragraph,11.5,0,0,3,0.0,1.0,0.0,6.0,1.3,0,0,22,0.1304,0,0,0
+chapter_01_ml_pipelines.docx,4,A feature computed one way during training and a slightly different way during i,Body Paragraph,11.5,0,0,3,0.0,1.0,0.0,6.0,1.3,0,0,23,0.1739,0,0,0
+chapter_01_ml_pipelines.docx,5,A Shared Contract,Subheading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,0,3,0.2174,0,0,0
+chapter_01_ml_pipelines.docx,6,Teams that split ML and engineering work benefit from writing down the exact fea,Body Paragraph,11.5,0,0,3,0.0,1.0,0.0,6.0,1.3,0,0,20,0.2609,0,0,0
+chapter_01_ml_pipelines.docx,7,Stage | Owner | Days | Setup | Both | 2,Table,11.0,1,0,0,0.0,0.0,0.0,0.0,1.0,0,0,15,0.3043,9,0,1
+chapter_01_ml_pipelines.docx,8,Table 5.2: Project timeline by stage.,Caption,10.0,0,1,1,0.0,0.0,0.0,12.0,1.0,0,0,6,0.3478,0,0,0
+chapter_01_ml_pipelines.docx,9,Fallback Layers,Subheading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,0,2,0.3913,0,0,0
+chapter_01_ml_pipelines.docx,10,Rule-based overrides act as a safety net for cases the statistical model has not,Body Paragraph,11.5,0,0,3,0.0,1.0,0.0,6.0,1.3,0,0,18,0.4348,0,0,0
+chapter_01_ml_pipelines.docx,11,[IMAGE],Figure,11.0,0,0,1,0.0,0.0,0.0,0.0,1.0,0,0,0,0.4783,0,1,0
+chapter_01_ml_pipelines.docx,12,Figure 5.3: Diagram supporting the discussion.,Caption,10.0,0,1,1,0.0,0.0,0.0,12.0,1.0,0,0,6,0.5217,0,0,0
+chapter_01_ml_pipelines.docx,13,Checklist,Subheading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,0,1,0.5652,0,0,0
+chapter_01_ml_pipelines.docx,14,"Before shipping, confirm the following.",Body Paragraph,11.5,0,0,3,0.0,1.0,0.0,6.0,1.3,0,0,5,0.6087,0,0,0
+chapter_01_ml_pipelines.docx,15,Key takeaways from this section:,Body Paragraph,11.5,0,0,3,0.0,1.0,0.0,6.0,1.0,0,0,5,0.6522,0,0,0
+chapter_01_ml_pipelines.docx,16,1. Keep schema in sync,List,11.5,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,5,0.6957,0,0,0
+chapter_01_ml_pipelines.docx,17,2. Version-pin dependencies,List,11.5,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,3,0.7391,0,0,0
+chapter_01_ml_pipelines.docx,18,3. Validate before formatting,List,11.5,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,4,0.7826,0,0,0
+chapter_01_ml_pipelines.docx,19,4. Log every override,List,11.5,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,4,0.8261,0,0,0
+chapter_01_ml_pipelines.docx,20,Further Reading,Subheading,13.0,1,0,0,0.0,0.0,16.0,6.0,1.0,0,0,2,0.8696,0,0,0
+chapter_01_ml_pipelines.docx,21,"[1] Fowler, M. (2018). Refactoring: Improving the design of existing code.",Reference,10.5,0,0,3,0.6,0.0,0.0,3.0,1.0,0,1,11,0.913,0,0,0
+chapter_01_ml_pipelines.docx,22,"[2] Gamma, E. et al. (1994). Design patterns: Elements of reusable object-orient",Reference,10.5,0,0,3,0.6,0.0,0.0,3.0,1.0,0,1,13,0.9565,0,0,0
+chapter_02_document_structure.docx,0,Chapter 6,Chapter Heading,14.0,1,0,1,0.0,0.0,0.0,2.0,1.0,0,0,2,0.0,0,0,0
+chapter_02_document_structure.docx,1,Understanding Document Structure Programmatically,Chapter Heading,20.0,1,0,1,0.0,0.0,0.0,24.0,1.0,0,0,4,0.0455,0,0,0
+chapter_02_document_structure.docx,2,Paragraphs vs. Runs,Subheading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,0,3,0.0909,0,0,0
+chapter_02_document_structure.docx,3,"A Word document is a tree: paragraphs contain runs, and each run can carry its o",Body Paragraph,11.5,0,0,3,0.0,1.0,0.0,6.0,1.3,0,0,25,0.1364,0,0,0
+chapter_02_document_structure.docx,4,Tables and Floating Elements,Subheading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,0,4,0.1818,0,0,0
+chapter_02_document_structure.docx,5,"Tables live alongside paragraphs at the same level in the document body, which m",Body Paragraph,11.5,0,0,3,0.0,1.0,0.0,6.0,1.3,0,0,26,0.2273,0,0,0
+chapter_02_document_structure.docx,6,Stage | Owner | Days | Setup | Both | 2,Table,11.0,1,0,0,0.0,0.0,0.0,0.0,1.0,0,0,15,0.2727,9,0,1
+chapter_02_document_structure.docx,7,Table 6.2: Project timeline by stage.,Caption,10.0,0,1,1,0.0,0.0,0.0,12.0,1.0,0,0,6,0.3182,0,0,0
+chapter_02_document_structure.docx,8,Images and Captions,Subheading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,0,3,0.3636,0,0,0
+chapter_02_document_structure.docx,9,An inline image is itself a paragraph with no text; the descriptive sentence bel,Body Paragraph,11.5,0,0,3,0.0,1.0,0.0,6.0,1.3,0,0,27,0.4091,0,0,0
+chapter_02_document_structure.docx,10,[IMAGE],Figure,11.0,0,0,1,0.0,0.0,0.0,0.0,1.0,0,0,0,0.4545,0,1,0
+chapter_02_document_structure.docx,11,Figure 6.3: Diagram supporting the discussion.,Caption,10.0,0,1,1,0.0,0.0,0.0,12.0,1.0,0,0,6,0.5,0,0,0
+chapter_02_document_structure.docx,12,Practical Tips,Subheading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,0,2,0.5455,0,0,0
+chapter_02_document_structure.docx,13,A short list of gotchas worth remembering.,Body Paragraph,11.5,0,0,3,0.0,1.0,0.0,6.0,1.3,0,0,7,0.5909,0,0,0
+chapter_02_document_structure.docx,14,Key takeaways from this section:,Body Paragraph,11.5,0,0,3,0.0,1.0,0.0,6.0,1.0,0,0,5,0.6364,0,0,0
+chapter_02_document_structure.docx,15,1. Keep schema in sync,List,11.5,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,5,0.6818,0,0,0
+chapter_02_document_structure.docx,16,2. Version-pin dependencies,List,11.5,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,3,0.7273,0,0,0
+chapter_02_document_structure.docx,17,3. Validate before formatting,List,11.5,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,4,0.7727,0,0,0
+chapter_02_document_structure.docx,18,4. Log every override,List,11.5,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,4,0.8182,0,0,0
+chapter_02_document_structure.docx,19,Further Reading,Subheading,13.0,1,0,0,0.0,0.0,16.0,6.0,1.0,0,0,2,0.8636,0,0,0
+chapter_02_document_structure.docx,20,"[1] Fowler, M. (2018). Refactoring: Improving the design of existing code.",Reference,10.5,0,0,3,0.6,0.0,0.0,3.0,1.0,0,1,11,0.9091,0,0,0
+chapter_02_document_structure.docx,21,"[2] Gamma, E. et al. (1994). Design patterns: Elements of reusable object-orient",Reference,10.5,0,0,3,0.6,0.0,0.0,3.0,1.0,0,1,13,0.9545,0,0,0
+chapter_03_evaluation_practices.docx,0,Chapter 7,Chapter Heading,14.0,1,0,1,0.0,0.0,0.0,2.0,1.0,0,0,2,0.0,0,0,0
+chapter_03_evaluation_practices.docx,1,Evaluating Classifiers Under Class Imbalance,Chapter Heading,20.0,1,0,1,0.0,0.0,0.0,24.0,1.0,0,0,5,0.0455,0,0,0
+chapter_03_evaluation_practices.docx,2,The Problem,Subheading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,0,2,0.0909,0,0,0
+chapter_03_evaluation_practices.docx,3,"Structural labels like Title and Author occur once or twice per document, while ",Body Paragraph,11.5,0,0,3,0.0,1.0,0.0,6.0,1.3,0,0,24,0.1364,0,0,0
+chapter_03_evaluation_practices.docx,4,Metrics That Matter,Subheading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,0,3,0.1818,0,0,0
+chapter_03_evaluation_practices.docx,5,Macro-averaged F1 and per-class recall reveal problems that overall accuracy hid,Body Paragraph,11.5,0,0,3,0.0,1.0,0.0,6.0,1.3,0,0,12,0.2273,0,0,0
+chapter_03_evaluation_practices.docx,6,Stage | Owner | Days | Setup | Both | 2,Table,11.0,1,0,0,0.0,0.0,0.0,0.0,1.0,0,0,15,0.2727,9,0,1
+chapter_03_evaluation_practices.docx,7,Table 7.2: Project timeline by stage.,Caption,10.0,0,1,1,0.0,0.0,0.0,12.0,1.0,0,0,6,0.3182,0,0,0
+chapter_03_evaluation_practices.docx,8,Visual Diagnostics,Subheading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,0,2,0.3636,0,0,0
+chapter_03_evaluation_practices.docx,9,"A confusion matrix makes systematic misclassifications, such as Subheading being",Body Paragraph,11.5,0,0,3,0.0,1.0,0.0,6.0,1.3,0,0,16,0.4091,0,0,0
+chapter_03_evaluation_practices.docx,10,[IMAGE],Figure,11.0,0,0,1,0.0,0.0,0.0,0.0,1.0,0,0,0,0.4545,0,1,0
+chapter_03_evaluation_practices.docx,11,Figure 7.3: Diagram supporting the discussion.,Caption,10.0,0,1,1,0.0,0.0,0.0,12.0,1.0,0,0,6,0.5,0,0,0
+chapter_03_evaluation_practices.docx,12,Recommended Workflow,Subheading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,0,2,0.5455,0,0,0
+chapter_03_evaluation_practices.docx,13,Suggested steps for a hackathon-scale evaluation loop.,Body Paragraph,11.5,0,0,3,0.0,1.0,0.0,6.0,1.3,0,0,7,0.5909,0,0,0
+chapter_03_evaluation_practices.docx,14,Key takeaways from this section:,Body Paragraph,11.5,0,0,3,0.0,1.0,0.0,6.0,1.0,0,0,5,0.6364,0,0,0
+chapter_03_evaluation_practices.docx,15,1. Keep schema in sync,List,11.5,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,5,0.6818,0,0,0
+chapter_03_evaluation_practices.docx,16,2. Version-pin dependencies,List,11.5,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,3,0.7273,0,0,0
+chapter_03_evaluation_practices.docx,17,3. Validate before formatting,List,11.5,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,4,0.7727,0,0,0
+chapter_03_evaluation_practices.docx,18,4. Log every override,List,11.5,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,4,0.8182,0,0,0
+chapter_03_evaluation_practices.docx,19,Further Reading,Subheading,13.0,1,0,0,0.0,0.0,16.0,6.0,1.0,0,0,2,0.8636,0,0,0
+chapter_03_evaluation_practices.docx,20,"[1] Fowler, M. (2018). Refactoring: Improving the design of existing code.",Reference,10.5,0,0,3,0.6,0.0,0.0,3.0,1.0,0,1,11,0.9091,0,0,0
+chapter_03_evaluation_practices.docx,21,"[2] Gamma, E. et al. (1994). Design patterns: Elements of reusable object-orient",Reference,10.5,0,0,3,0.6,0.0,0.0,3.0,1.0,0,1,13,0.9545,0,0,0
+paper_01_greencertai.docx,0,GreenCertAI: Automating LEED and GRIHA Compliance Checks with Document Intellige,Title,16.0,1,0,1,0.0,0.0,0.0,8.0,1.0,0,0,10,0.0,0,0,0
+paper_01_greencertai.docx,1,"S. Damle, A. Tatawar, J. Patil, S. Deshpande",Author,11.0,0,1,1,0.0,0.0,0.0,18.0,1.0,0,0,8,0.0435,0,0,0
+paper_01_greencertai.docx,2,Abstract,Subheading,12.0,1,0,0,0.0,0.0,0.0,4.0,1.0,0,0,1,0.087,0,0,0
+paper_01_greencertai.docx,3,Green building certification requires manually cross-referencing design document,Body Paragraph,10.0,0,0,3,0.0,0.0,0.0,12.0,1.0,0,0,29,0.1304,0,0,0
+paper_01_greencertai.docx,4,1. Introduction,Chapter Heading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,1,2,0.1739,0,0,0
+paper_01_greencertai.docx,5,"Manual compliance review is slow, error-prone, and difficult to audit consistent",Body Paragraph,10.5,0,0,3,0.0,0.499,0.0,6.0,1.15,0,0,15,0.2174,0,0,0
+paper_01_greencertai.docx,6,2. Approach,Chapter Heading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,1,2,0.2609,0,0,0
+paper_01_greencertai.docx,7,"Our pipeline parses submitted drawings and specification documents, extracts rel",Body Paragraph,10.5,0,0,3,0.0,0.499,0.0,6.0,1.15,0,0,18,0.3043,0,0,0
+paper_01_greencertai.docx,8,[IMAGE],Figure,11.0,0,0,1,0.0,0.0,0.0,0.0,1.0,0,0,0,0.3478,0,1,0
+paper_01_greencertai.docx,9,Figure 2: Overview of the proposed pipeline.,Caption,9.0,0,1,1,0.0,0.0,0.0,10.0,1.0,0,0,7,0.3913,0,0,0
+paper_01_greencertai.docx,10,3. Evaluation,Chapter Heading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,1,2,0.4348,0,0,0
+paper_01_greencertai.docx,11,We evaluate against a held-out set of prior certification submissions with known,Body Paragraph,10.5,0,0,3,0.0,0.499,0.0,6.0,1.15,0,0,13,0.4783,0,0,0
+paper_01_greencertai.docx,12,Metric | Baseline | Proposed | Precision | 0.81 | 0.93,Table,11.0,1,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.5217,9,0,1
+paper_01_greencertai.docx,13,Table 3: Comparison against the baseline system.,Caption,9.0,0,1,1,0.0,0.0,0.0,10.0,1.0,0,0,7,0.5652,0,0,0
+paper_01_greencertai.docx,14,4. Limitations,Chapter Heading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,1,2,0.6087,0,0,0
+paper_01_greencertai.docx,15,The current rulebook covers a subset of LEED v4.1 and GRIHA criteria; broader co,Body Paragraph,10.5,0,0,3,0.0,0.499,0.0,6.0,1.15,0,0,19,0.6522,0,0,0
+paper_01_greencertai.docx,16,1. Novel feature schema,List,10.5,0,0,0,0.801,0.0,0.0,2.0,1.0,0,1,4,0.6957,0,0,0
+paper_01_greencertai.docx,17,2. Hybrid ML plus rules,List,10.5,0,0,0,0.801,0.0,0.0,2.0,1.0,0,1,5,0.7391,0,0,0
+paper_01_greencertai.docx,18,"3. Offline, no cloud dependency",List,10.5,0,0,0,0.801,0.0,0.0,2.0,1.0,0,1,5,0.7826,0,0,0
+paper_01_greencertai.docx,19,References,Chapter Heading,13.0,1,0,0,0.0,0.0,16.0,6.0,1.0,0,0,1,0.8261,0,0,0
+paper_01_greencertai.docx,20,"[1] Manning, C., Schutze, H. (1999). Foundations of statistical natural language",Reference,9.5,0,0,3,0.499,0.0,0.0,3.0,1.0,0,1,12,0.8696,0,0,0
+paper_01_greencertai.docx,21,"[2] Lafferty, J., McCallum, A., Pereira, F. (2001). Conditional random fields fo",Reference,9.5,0,0,3,0.499,0.0,0.0,3.0,1.0,0,1,15,0.913,0,0,0
+paper_01_greencertai.docx,22,"[3] Vaswani, A. et al. (2017). Attention is all you need. NeurIPS proceedings.",Reference,9.5,0,0,3,0.499,0.0,0.0,3.0,1.0,0,1,13,0.9565,0,0,0
+paper_02_docx_formatter.docx,0,Offline Document Element Classification for Automated Manuscript Formatting,Title,16.0,1,0,1,0.0,0.0,0.0,8.0,1.0,0,0,8,0.0,0,0,0
+paper_02_docx_formatter.docx,1,S. Damle et al.,Author,11.0,0,1,1,0.0,0.0,0.0,18.0,1.0,0,0,4,0.0476,0,0,0
+paper_02_docx_formatter.docx,2,Abstract,Subheading,12.0,1,0,0,0.0,0.0,0.0,4.0,1.0,0,0,1,0.0952,0,0,0
+paper_02_docx_formatter.docx,3,We describe a fully offline pipeline that classifies paragraphs in a raw DOCX ma,Body Paragraph,10.0,0,0,3,0.0,0.0,0.0,12.0,1.0,0,0,37,0.1429,0,0,0
+paper_02_docx_formatter.docx,4,1. Feature Schema,Chapter Heading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,1,3,0.1905,0,0,0
+paper_02_docx_formatter.docx,5,Each paragraph is converted into a fixed-width feature vector capturing font siz,Body Paragraph,10.5,0,0,3,0.0,0.499,0.0,6.0,1.15,0,0,21,0.2381,0,0,0
+paper_02_docx_formatter.docx,6,Metric | Baseline | Proposed | Precision | 0.81 | 0.93,Table,11.0,1,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.2857,9,0,1
+paper_02_docx_formatter.docx,7,Table 1: Comparison against the baseline system.,Caption,9.0,0,1,1,0.0,0.0,0.0,10.0,1.0,0,0,7,0.3333,0,0,0
+paper_02_docx_formatter.docx,8,2. Hybrid Classification,Chapter Heading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,1,3,0.381,0,0,0
+paper_02_docx_formatter.docx,9,"A random forest classifier handles the general case, while a small set of high-c",Body Paragraph,10.5,0,0,3,0.0,0.499,0.0,6.0,1.15,0,0,24,0.4286,0,0,0
+paper_02_docx_formatter.docx,10,1. Novel feature schema,List,10.5,0,0,0,0.801,0.0,0.0,2.0,1.0,0,1,4,0.4762,0,0,0
+paper_02_docx_formatter.docx,11,2. Hybrid ML plus rules,List,10.5,0,0,0,0.801,0.0,0.0,2.0,1.0,0,1,5,0.5238,0,0,0
+paper_02_docx_formatter.docx,12,"3. Offline, no cloud dependency",List,10.5,0,0,0,0.801,0.0,0.0,2.0,1.0,0,1,5,0.5714,0,0,0
+paper_02_docx_formatter.docx,13,3. System Overview,Chapter Heading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,1,3,0.619,0,0,0
+paper_02_docx_formatter.docx,14,"Figure 1 summarizes the end-to-end flow from raw input to validated, publication",Body Paragraph,10.5,0,0,3,0.0,0.499,0.0,6.0,1.15,0,0,13,0.6667,0,0,0
+paper_02_docx_formatter.docx,15,[IMAGE],Figure,11.0,0,0,1,0.0,0.0,0.0,0.0,1.0,0,0,0,0.7143,0,1,0
+paper_02_docx_formatter.docx,16,Figure 3: Overview of the proposed pipeline.,Caption,9.0,0,1,1,0.0,0.0,0.0,10.0,1.0,0,0,7,0.7619,0,0,0
+paper_02_docx_formatter.docx,17,References,Chapter Heading,13.0,1,0,0,0.0,0.0,16.0,6.0,1.0,0,0,1,0.8095,0,0,0
+paper_02_docx_formatter.docx,18,"[1] Manning, C., Schutze, H. (1999). Foundations of statistical natural language",Reference,9.5,0,0,3,0.499,0.0,0.0,3.0,1.0,0,1,12,0.8571,0,0,0
+paper_02_docx_formatter.docx,19,"[2] Lafferty, J., McCallum, A., Pereira, F. (2001). Conditional random fields fo",Reference,9.5,0,0,3,0.499,0.0,0.0,3.0,1.0,0,1,15,0.9048,0,0,0
+paper_02_docx_formatter.docx,20,"[3] Vaswani, A. et al. (2017). Attention is all you need. NeurIPS proceedings.",Reference,9.5,0,0,3,0.499,0.0,0.0,3.0,1.0,0,1,13,0.9524,0,0,0
+paper_03_running_pace_model.docx,0,Predicting Marathon Split Times from Training Load Using Gradient Boosting,Title,16.0,1,0,1,0.0,0.0,0.0,8.0,1.0,0,0,10,0.0,0,0,0
+paper_03_running_pace_model.docx,1,S. Damle,Author,11.0,0,1,1,0.0,0.0,0.0,18.0,1.0,0,0,2,0.0588,0,0,0
+paper_03_running_pace_model.docx,2,Abstract,Subheading,12.0,1,0,0,0.0,0.0,0.0,4.0,1.0,0,0,1,0.1176,0,0,0
+paper_03_running_pace_model.docx,3,Runners often want to forecast race splits from training data alone. We model sp,Body Paragraph,10.0,0,0,3,0.0,0.0,0.0,12.0,1.0,0,0,24,0.1765,0,0,0
+paper_03_running_pace_model.docx,4,1. Data,Chapter Heading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,1,2,0.2353,0,0,0
+paper_03_running_pace_model.docx,5,Training logs spanning multiple marathon build-ups were aggregated into weekly m,Body Paragraph,10.5,0,0,3,0.0,0.499,0.0,6.0,1.15,0,0,15,0.2941,0,0,0
+paper_03_running_pace_model.docx,6,Metric | Baseline | Proposed | Precision | 0.81 | 0.93,Table,11.0,1,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.3529,9,0,1
+paper_03_running_pace_model.docx,7,Table 1: Comparison against the baseline system.,Caption,9.0,0,1,1,0.0,0.0,0.0,10.0,1.0,0,0,7,0.4118,0,0,0
+paper_03_running_pace_model.docx,8,2. Model,Chapter Heading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,1,2,0.4706,0,0,0
+paper_03_running_pace_model.docx,9,A gradient-boosted regressor outperformed a simple linear baseline on held-out r,Body Paragraph,10.5,0,0,3,0.0,0.499,0.0,6.0,1.15,0,0,12,0.5294,0,0,0
+paper_03_running_pace_model.docx,10,1. Novel feature schema,List,10.5,0,0,0,0.801,0.0,0.0,2.0,1.0,0,1,4,0.5882,0,0,0
+paper_03_running_pace_model.docx,11,2. Hybrid ML plus rules,List,10.5,0,0,0,0.801,0.0,0.0,2.0,1.0,0,1,5,0.6471,0,0,0
+paper_03_running_pace_model.docx,12,"3. Offline, no cloud dependency",List,10.5,0,0,0,0.801,0.0,0.0,2.0,1.0,0,1,5,0.7059,0,0,0
+paper_03_running_pace_model.docx,13,References,Chapter Heading,13.0,1,0,0,0.0,0.0,16.0,6.0,1.0,0,0,1,0.7647,0,0,0
+paper_03_running_pace_model.docx,14,"[1] Manning, C., Schutze, H. (1999). Foundations of statistical natural language",Reference,9.5,0,0,3,0.499,0.0,0.0,3.0,1.0,0,1,12,0.8235,0,0,0
+paper_03_running_pace_model.docx,15,"[2] Lafferty, J., McCallum, A., Pereira, F. (2001). Conditional random fields fo",Reference,9.5,0,0,3,0.499,0.0,0.0,3.0,1.0,0,1,15,0.8824,0,0,0
+paper_03_running_pace_model.docx,16,"[3] Vaswani, A. et al. (2017). Attention is all you need. NeurIPS proceedings.",Reference,9.5,0,0,3,0.499,0.0,0.0,3.0,1.0,0,1,13,0.9412,0,0,0
+thesis_01_osteoporosis_screening.docx,0,AI-Assisted Osteoporosis Risk Screening Using Wrist X-Ray Imaging,Title,20.0,1,0,1,0.0,0.0,0.0,12.0,1.0,0,0,8,0.0,0,0,0
+thesis_01_osteoporosis_screening.docx,1,Submitted by Sajiree S. Damle,Author,14.0,0,1,1,0.0,0.0,0.0,36.0,1.0,0,0,5,0.037,0,0,0
+thesis_01_osteoporosis_screening.docx,2,Chapter 1: Introduction,Chapter Heading,16.0,1,0,0,0.0,0.0,24.0,12.0,1.0,0,0,3,0.0741,0,0,0
+thesis_01_osteoporosis_screening.docx,3,1.1 Background,Subheading,13.0,1,0,0,0.0,0.0,12.0,6.0,1.0,0,1,2,0.1111,0,0,0
+thesis_01_osteoporosis_screening.docx,4,Osteoporosis is a progressive skeletal disorder characterized by reduced bone de,Body Paragraph,12.0,0,0,3,0.0,1.27,0.0,6.0,1.5,0,0,20,0.1481,0,0,0
+thesis_01_osteoporosis_screening.docx,5,Early screening remains limited in low-resource settings due to the cost and ava,Body Paragraph,12.0,0,0,3,0.0,1.27,0.0,6.0,1.5,0,0,19,0.1852,0,0,0
+thesis_01_osteoporosis_screening.docx,6,1.2 Problem Statement,Subheading,13.0,1,0,0,0.0,0.0,12.0,6.0,1.0,0,1,3,0.2222,0,0,0
+thesis_01_osteoporosis_screening.docx,7,"This work investigates whether wrist radiographs, which are cheaper and more wid",Body Paragraph,12.0,0,0,3,0.0,1.27,0.0,6.0,1.5,0,0,28,0.2593,0,0,0
+thesis_01_osteoporosis_screening.docx,8,The preprocessing pipeline followed these steps:,Body Paragraph,12.0,0,0,3,0.0,1.27,0.0,6.0,1.0,0,0,6,0.2963,0,0,0
+thesis_01_osteoporosis_screening.docx,9,1. Clean raw text,List,12.0,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,4,0.3333,0,0,0
+thesis_01_osteoporosis_screening.docx,10,2. Segment paragraphs,List,12.0,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,3,0.3704,0,0,0
+thesis_01_osteoporosis_screening.docx,11,3. Extract features,List,12.0,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,3,0.4074,0,0,0
+thesis_01_osteoporosis_screening.docx,12,4. Normalize values,List,12.0,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,3,0.4444,0,0,0
+thesis_01_osteoporosis_screening.docx,13,Chapter 2: Methodology,Chapter Heading,16.0,1,0,0,0.0,0.0,24.0,12.0,1.0,0,0,3,0.4815,0,0,0
+thesis_01_osteoporosis_screening.docx,14,2.1 Dataset,Subheading,13.0,1,0,0,0.0,0.0,12.0,6.0,1.0,0,1,2,0.5185,0,0,0
+thesis_01_osteoporosis_screening.docx,15,We curated a dataset of anonymized wrist radiographs paired with clinical bone d,Body Paragraph,12.0,0,0,3,0.0,1.27,0.0,6.0,1.5,0,0,18,0.5556,0,0,0
+thesis_01_osteoporosis_screening.docx,16,Model | Accuracy | F1-score | Random Forest | 0.91 | 0.90,Table,11.0,1,0,0,0.0,0.0,0.0,0.0,1.0,0,0,14,0.5926,9,0,1
+thesis_01_osteoporosis_screening.docx,17,Table 2.1: Performance comparison of classifiers on the validation split.,Caption,10.0,0,1,1,0.0,0.0,0.0,12.0,1.0,0,0,10,0.6296,0,0,0
+thesis_01_osteoporosis_screening.docx,18,2.2 Model Architecture,Subheading,13.0,1,0,0,0.0,0.0,12.0,6.0,1.0,0,1,3,0.6667,0,0,0
+thesis_01_osteoporosis_screening.docx,19,A convolutional feature extractor is combined with a gradient-boosted classifier,Body Paragraph,12.0,0,0,3,0.0,1.27,0.0,6.0,1.5,0,0,20,0.7037,0,0,0
+thesis_01_osteoporosis_screening.docx,20,[IMAGE],Figure,11.0,0,0,1,0.0,0.0,0.0,0.0,1.0,0,0,0,0.7407,0,1,0
+thesis_01_osteoporosis_screening.docx,21,Figure 2.2: Illustration referenced in the discussion above.,Caption,10.0,0,1,1,0.0,0.0,0.0,12.0,1.0,0,0,8,0.7778,0,0,0
+thesis_01_osteoporosis_screening.docx,22,References,Chapter Heading,16.0,1,0,0,0.0,0.0,24.0,12.0,1.0,0,0,1,0.8148,0,0,0
+thesis_01_osteoporosis_screening.docx,23,"[1] Breiman, L. (2001). Random forests. Machine Learning, 45(1), 5-32.",Reference,11.0,0,0,3,0.6,0.0,0.0,4.0,1.0,0,1,10,0.8519,0,0,0
+thesis_01_osteoporosis_screening.docx,24,"[2] Cortes, C., Vapnik, V. (1995). Support-vector networks. Machine Learning, 20",Reference,11.0,0,0,3,0.6,0.0,0.0,4.0,1.0,0,1,12,0.8889,0,0,0
+thesis_01_osteoporosis_screening.docx,25,"[3] Pedregosa, F. et al. (2011). Scikit-learn: Machine learning in Python. JMLR,",Reference,11.0,0,0,3,0.6,0.0,0.0,4.0,1.0,0,1,14,0.9259,0,0,0
+thesis_01_osteoporosis_screening.docx,26,"[4] Kishida, K. (2005). Property of average precision and its generalization. NI",Reference,11.0,0,0,3,0.6,0.0,0.0,4.0,1.0,0,1,14,0.963,0,0,0
+thesis_02_wari_traffic_prediction.docx,0,VariSetu: A Smart System for Wari Pilgrimage Crowd and Traffic Prediction,Title,20.0,1,0,1,0.0,0.0,0.0,12.0,1.0,0,0,11,0.0,0,0,0
+thesis_02_wari_traffic_prediction.docx,1,Submitted by Sajiree S. Damle,Author,14.0,0,1,1,0.0,0.0,0.0,36.0,1.0,0,0,5,0.037,0,0,0
+thesis_02_wari_traffic_prediction.docx,2,Chapter 1: Introduction,Chapter Heading,16.0,1,0,0,0.0,0.0,24.0,12.0,1.0,0,0,3,0.0741,0,0,0
+thesis_02_wari_traffic_prediction.docx,3,1.1 Motivation,Subheading,13.0,1,0,0,0.0,0.0,12.0,6.0,1.0,0,1,2,0.1111,0,0,0
+thesis_02_wari_traffic_prediction.docx,4,The annual Wari pilgrimage in Maharashtra draws millions of participants across ,Body Paragraph,12.0,0,0,3,0.0,1.27,0.0,6.0,1.5,0,0,22,0.1481,0,0,0
+thesis_02_wari_traffic_prediction.docx,5,"Municipal authorities currently rely on manual crowd counting, which does not sc",Body Paragraph,12.0,0,0,3,0.0,1.27,0.0,6.0,1.5,0,0,21,0.1852,0,0,0
+thesis_02_wari_traffic_prediction.docx,6,Chapter 2: System Design,Chapter Heading,16.0,1,0,0,0.0,0.0,24.0,12.0,1.0,0,0,4,0.2222,0,0,0
+thesis_02_wari_traffic_prediction.docx,7,2.1 Backend Architecture,Subheading,13.0,1,0,0,0.0,0.0,12.0,6.0,1.0,0,1,3,0.2593,0,0,0
+thesis_02_wari_traffic_prediction.docx,8,The system exposes a FastAPI backend that ingests live location pings and return,Body Paragraph,12.0,0,0,3,0.0,1.27,0.0,6.0,1.5,0,0,20,0.2963,0,0,0
+thesis_02_wari_traffic_prediction.docx,9,[IMAGE],Figure,11.0,0,0,1,0.0,0.0,0.0,0.0,1.0,0,0,0,0.3333,0,1,0
+thesis_02_wari_traffic_prediction.docx,10,Figure 2.1: Illustration referenced in the discussion above.,Caption,10.0,0,1,1,0.0,0.0,0.0,12.0,1.0,0,0,8,0.3704,0,0,0
+thesis_02_wari_traffic_prediction.docx,11,2.2 Evaluation,Subheading,13.0,1,0,0,0.0,0.0,12.0,6.0,1.0,0,1,2,0.4074,0,0,0
+thesis_02_wari_traffic_prediction.docx,12,We benchmarked the prediction service against historical crowd-density logs from,Body Paragraph,12.0,0,0,3,0.0,1.27,0.0,6.0,1.5,0,0,17,0.4444,0,0,0
+thesis_02_wari_traffic_prediction.docx,13,Model | Accuracy | F1-score | Random Forest | 0.91 | 0.90,Table,11.0,1,0,0,0.0,0.0,0.0,0.0,1.0,0,0,14,0.4815,9,0,1
+thesis_02_wari_traffic_prediction.docx,14,Table 2.2: Performance comparison of classifiers on the validation split.,Caption,10.0,0,1,1,0.0,0.0,0.0,12.0,1.0,0,0,10,0.5185,0,0,0
+thesis_02_wari_traffic_prediction.docx,15,2.3 Deployment Notes,Subheading,13.0,1,0,0,0.0,0.0,12.0,6.0,1.0,0,1,3,0.5556,0,0,0
+thesis_02_wari_traffic_prediction.docx,16,Rollout considerations for volunteer checkpoints are summarized below.,Body Paragraph,12.0,0,0,3,0.0,1.27,0.0,6.0,1.5,0,0,8,0.5926,0,0,0
+thesis_02_wari_traffic_prediction.docx,17,The preprocessing pipeline followed these steps:,Body Paragraph,12.0,0,0,3,0.0,1.27,0.0,6.0,1.0,0,0,6,0.6296,0,0,0
+thesis_02_wari_traffic_prediction.docx,18,1. Clean raw text,List,12.0,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,4,0.6667,0,0,0
+thesis_02_wari_traffic_prediction.docx,19,2. Segment paragraphs,List,12.0,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,3,0.7037,0,0,0
+thesis_02_wari_traffic_prediction.docx,20,3. Extract features,List,12.0,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,3,0.7407,0,0,0
+thesis_02_wari_traffic_prediction.docx,21,4. Normalize values,List,12.0,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,3,0.7778,0,0,0
+thesis_02_wari_traffic_prediction.docx,22,References,Chapter Heading,16.0,1,0,0,0.0,0.0,24.0,12.0,1.0,0,0,1,0.8148,0,0,0
+thesis_02_wari_traffic_prediction.docx,23,"[1] Breiman, L. (2001). Random forests. Machine Learning, 45(1), 5-32.",Reference,11.0,0,0,3,0.6,0.0,0.0,4.0,1.0,0,1,10,0.8519,0,0,0
+thesis_02_wari_traffic_prediction.docx,24,"[2] Cortes, C., Vapnik, V. (1995). Support-vector networks. Machine Learning, 20",Reference,11.0,0,0,3,0.6,0.0,0.0,4.0,1.0,0,1,12,0.8889,0,0,0
+thesis_02_wari_traffic_prediction.docx,25,"[3] Pedregosa, F. et al. (2011). Scikit-learn: Machine learning in Python. JMLR,",Reference,11.0,0,0,3,0.6,0.0,0.0,4.0,1.0,0,1,14,0.9259,0,0,0
+thesis_02_wari_traffic_prediction.docx,26,"[4] Kishida, K. (2005). Property of average precision and its generalization. NI",Reference,11.0,0,0,3,0.6,0.0,0.0,4.0,1.0,0,1,14,0.963,0,0,0
+thesis_03_neoscan_jaundice.docx,0,NeoScan: Portable Smartphone-Based Screening for Newborn Jaundice,Title,20.0,1,0,1,0.0,0.0,0.0,12.0,1.0,0,0,7,0.0,0,0,0
+thesis_03_neoscan_jaundice.docx,1,Submitted by Sajiree S. Damle,Author,14.0,0,1,1,0.0,0.0,0.0,36.0,1.0,0,0,5,0.0385,0,0,0
+thesis_03_neoscan_jaundice.docx,2,Chapter 1: Introduction,Chapter Heading,16.0,1,0,0,0.0,0.0,24.0,12.0,1.0,0,0,3,0.0769,0,0,0
+thesis_03_neoscan_jaundice.docx,3,1.1 Clinical Context,Subheading,13.0,1,0,0,0.0,0.0,12.0,6.0,1.0,0,1,3,0.1154,0,0,0
+thesis_03_neoscan_jaundice.docx,4,"Neonatal jaundice affects a majority of newborns in the first week of life and, ",Body Paragraph,12.0,0,0,3,0.0,1.27,0.0,6.0,1.5,0,0,22,0.1538,0,0,0
+thesis_03_neoscan_jaundice.docx,5,1.2 Objective,Subheading,13.0,1,0,0,0.0,0.0,12.0,6.0,1.0,0,1,2,0.1923,0,0,0
+thesis_03_neoscan_jaundice.docx,6,NeoScan aims to estimate bilirubin risk from a smartphone photograph of the infa,Body Paragraph,12.0,0,0,3,0.0,1.27,0.0,6.0,1.5,0,0,18,0.2308,0,0,0
+thesis_03_neoscan_jaundice.docx,7,The preprocessing pipeline followed these steps:,Body Paragraph,12.0,0,0,3,0.0,1.27,0.0,6.0,1.0,0,0,6,0.2692,0,0,0
+thesis_03_neoscan_jaundice.docx,8,1. Clean raw text,List,12.0,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,4,0.3077,0,0,0
+thesis_03_neoscan_jaundice.docx,9,2. Segment paragraphs,List,12.0,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,3,0.3462,0,0,0
+thesis_03_neoscan_jaundice.docx,10,3. Extract features,List,12.0,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,3,0.3846,0,0,0
+thesis_03_neoscan_jaundice.docx,11,4. Normalize values,List,12.0,0,0,0,1.0,0.0,0.0,2.0,1.0,0,1,3,0.4231,0,0,0
+thesis_03_neoscan_jaundice.docx,12,Chapter 2: Implementation,Chapter Heading,16.0,1,0,0,0.0,0.0,24.0,12.0,1.0,0,0,3,0.4615,0,0,0
+thesis_03_neoscan_jaundice.docx,13,2.1 Color Calibration,Subheading,13.0,1,0,0,0.0,0.0,12.0,6.0,1.0,0,1,3,0.5,0,0,0
+thesis_03_neoscan_jaundice.docx,14,A reference color card is placed alongside the infant to normalize for ambient l,Body Paragraph,12.0,0,0,3,0.0,1.27,0.0,6.0,1.5,0,0,20,0.5385,0,0,0
+thesis_03_neoscan_jaundice.docx,15,[IMAGE],Figure,11.0,0,0,1,0.0,0.0,0.0,0.0,1.0,0,0,0,0.5769,0,1,0
+thesis_03_neoscan_jaundice.docx,16,Figure 2.1: Illustration referenced in the discussion above.,Caption,10.0,0,1,1,0.0,0.0,0.0,12.0,1.0,0,0,8,0.6154,0,0,0
+thesis_03_neoscan_jaundice.docx,17,2.2 Results,Subheading,13.0,1,0,0,0.0,0.0,12.0,6.0,1.0,0,1,2,0.6538,0,0,0
+thesis_03_neoscan_jaundice.docx,18,The calibrated model achieved strong agreement with transcutaneous bilirubin met,Body Paragraph,12.0,0,0,3,0.0,1.27,0.0,6.0,1.5,0,0,15,0.6923,0,0,0
+thesis_03_neoscan_jaundice.docx,19,Model | Accuracy | F1-score | Random Forest | 0.91 | 0.90,Table,11.0,1,0,0,0.0,0.0,0.0,0.0,1.0,0,0,14,0.7308,9,0,1
+thesis_03_neoscan_jaundice.docx,20,Table 2.2: Performance comparison of classifiers on the validation split.,Caption,10.0,0,1,1,0.0,0.0,0.0,12.0,1.0,0,0,10,0.7692,0,0,0
+thesis_03_neoscan_jaundice.docx,21,References,Chapter Heading,16.0,1,0,0,0.0,0.0,24.0,12.0,1.0,0,0,1,0.8077,0,0,0
+thesis_03_neoscan_jaundice.docx,22,"[1] Breiman, L. (2001). Random forests. Machine Learning, 45(1), 5-32.",Reference,11.0,0,0,3,0.6,0.0,0.0,4.0,1.0,0,1,10,0.8462,0,0,0
+thesis_03_neoscan_jaundice.docx,23,"[2] Cortes, C., Vapnik, V. (1995). Support-vector networks. Machine Learning, 20",Reference,11.0,0,0,3,0.6,0.0,0.0,4.0,1.0,0,1,12,0.8846,0,0,0
+thesis_03_neoscan_jaundice.docx,24,"[3] Pedregosa, F. et al. (2011). Scikit-learn: Machine learning in Python. JMLR,",Reference,11.0,0,0,3,0.6,0.0,0.0,4.0,1.0,0,1,14,0.9231,0,0,0
+thesis_03_neoscan_jaundice.docx,25,"[4] Kishida, K. (2005). Property of average precision and its generalization. NI",Reference,11.0,0,0,3,0.6,0.0,0.0,4.0,1.0,0,1,14,0.9615,0,0,0
