@@ -11,7 +11,7 @@ import sys
 import time
 
 from parser import parse_docx
-from classifier_stub import classify
+from classifier_stub import classify_batch
 from formatting_engine import format_document
 from validation import validate_output
 
@@ -27,10 +27,12 @@ def run_pipeline(input_path: str, output_path: str, verbose: bool = True):
         print(f"[1/4] Parsed {len(records)} elements from {input_path} "
               f"({len(records) - n_tables} paragraphs, {n_tables} tables)")
 
-    # 2. Classify each element (real model if available, else rule-based stub)
+    # 2. Classify all elements in ONE batched model call (real model if
+    # available, else rule-based stub) -- see classifier_stub.classify_batch
+    # for why this matters: one-at-a-time was ~1000x slower.
     label_counts = {}
-    for r in records:
-        label, confidence = classify(r)
+    results = classify_batch(records)
+    for r, (label, confidence) in zip(records, results):
         r.label = label
         r.label_confidence = confidence
         label_counts[label] = label_counts.get(label, 0) + 1

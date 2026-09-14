@@ -98,26 +98,52 @@ def rule_based_override(text: str, has_image: int, is_table_element: int,
 
 
 def classify(record: ElementRecord) -> Tuple[str, float]:
-    """Single entry point used by main_pipeline.py.
-    Returns (label_name, confidence)."""
-    feat = dict(zip(FEATURE_COLUMNS, record.features))
+    """Single-element convenience wrapper. Fine for a few elements or
+    interactive use (see scripts/compare_before_after.py). For a whole
+    document, use classify_batch() instead -- calling the model one row at
+    a time is >1000x slower than one batched call (measured: ~65s vs
+    ~0.06s for 4,675 rows) because every .predict()/.predict_proba() call
+    pays fixed sklearn/joblib overhead (input validation, tag lookup,
+    parallel dispatch) regardless of batch size."""
+    return classify_batch([record])[0]
+
+
+def classify_batch(records) -> list:
+    """Classify many elements in one shot. Returns a list of
+    (label_name, confidence) tuples, same order as `records`.
+
+    This is what main_pipeline.py calls -- one matrix, one predict() call,
+    one predict_proba() call, no matter how many thousand elements are in
+    the document.
+    """
     have_model = load_real_model()
+    n = len(records)
+    if n == 0:
+        return []
+
+    feats = [dict(zip(FEATURE_COLUMNS, r.features)) for r in records]
 
     if have_model:
         import numpy as np
-        X = np.array(record.features, dtype=float).reshape(1, -1)
+        X = np.array([r.features for r in records], dtype=float)
         if _SCALER is not None:
             X = _SCALER.transform(X)
-        pred_id = int(_MODEL.predict(X)[0])
-        label = LABEL_MAP.get(pred_id, "Body Paragraph")
+        pred_ids = _MODEL.predict(X)
+        labels = [LABEL_MAP.get(int(pid), "Body Paragraph") for pid in pred_ids]
         if hasattr(_MODEL, "predict_proba"):
-            confidence = float(max(_MODEL.predict_proba(X)[0]))
+            proba = _MODEL.predict_proba(X)
+            confidences = proba.max(axis=1).tolist()
         else:
-            confidence = 0.75
+            confidences = [0.75] * n
     else:
-        label, confidence = _heuristic_guess(record.text, feat)
+        guesses = [_heuristic_guess(r.text, f) for r, f in zip(records, feats)]
+        labels = [g[0] for g in guesses]
+        confidences = [g[1] for g in guesses]
 
-    final_label = rule_based_override(
-        record.text, feat["has_image"], feat["is_table_element"], label, confidence
-    )
-    return final_label, confidence
+    results = []
+    for record, feat, label, confidence in zip(records, feats, labels, confidences):
+        final_label = rule_based_override(
+            record.text, feat["has_image"], feat["is_table_element"], label, confidence
+        )
+        results.append((final_label, confidence))
+    return results

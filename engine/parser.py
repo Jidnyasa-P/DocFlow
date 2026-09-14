@@ -81,14 +81,33 @@ def _run_formatting(paragraph: Paragraph):
     return font_size, is_bold, is_italic
 
 
-def _style_hash(paragraph_or_none) -> int:
-    style_name = "Normal"
-    if paragraph_or_none is not None and paragraph_or_none.style:
-        style_name = paragraph_or_none.style.name
+def _style_hash(paragraph_or_none, style_cache: dict) -> int:
+    """Resolve a paragraph's style name to its STYLE_VOCAB index.
+
+    python-docx's `paragraph.style.name` does a real lookup (including
+    default-style resolution) on every call -- measured at ~7.8s for 4,507
+    paragraphs on a 400+ page doc, the single biggest bottleneck after the
+    classifier batching fix. A document only ever uses a handful of
+    distinct style IDs, so we cache by the raw `w:pStyle` id (a cheap XML
+    attribute read) and only pay the real resolution cost once per unique
+    style, not once per paragraph.
+    """
+    if paragraph_or_none is None:
+        style_id = None
+    else:
+        style_id = paragraph_or_none._p.style  # raw XML attribute, no resolution
+
+    if style_id not in style_cache:
+        style_name = "Normal"
+        if paragraph_or_none is not None and paragraph_or_none.style:
+            style_name = paragraph_or_none.style.name
+        style_cache[style_id] = style_name
+
+    style_name = style_cache[style_id]
     return STYLE_VOCAB.index(style_name) if style_name in STYLE_VOCAB else len(STYLE_VOCAB)
 
 
-def _features_for_paragraph(p: Paragraph, order_index: int) -> Optional[dict]:
+def _features_for_paragraph(p: Paragraph, order_index: int, style_cache: dict) -> Optional[dict]:
     text = p.text.strip()
     has_img = _paragraph_has_image(p)
     if not text and not has_img:
@@ -109,14 +128,14 @@ def _features_for_paragraph(p: Paragraph, order_index: int) -> Optional[dict]:
         "is_all_caps": int(bool(text) and text.upper() == text and any(c.isalpha() for c in text)),
         "starts_with_number": int(bool(text) and bool(STARTS_WITH_NUMBER_RE.match(text))),
         "word_count": len(text.split()),
-        "style_name_hash": _style_hash(p),
+        "style_name_hash": _style_hash(p, style_cache),
         "has_image": int(has_img),
         "is_table_element": 0,
     }
     return feat, (text if text else "[IMAGE]")
 
 
-def _features_for_table(t: Table) -> dict:
+def _features_for_table(t: Table, style_cache: dict) -> dict:
     all_cells_text = []
     first_size, first_bold = None, None
     for row in t.rows:
@@ -154,11 +173,12 @@ def parse_docx(path: str):
     body = doc.element.body
 
     raw_records = []  # (kind, obj, feat_dict, text)
+    style_cache: dict = {}  # style_id -> style_name, scoped to this document
     idx = 0
     for child in body.iterchildren():
         if child.tag == qn("w:p"):
             p = Paragraph(child, doc)
-            result = _features_for_paragraph(p, idx)
+            result = _features_for_paragraph(p, idx, style_cache)
             if result is None:
                 continue
             feat, text = result
@@ -166,7 +186,7 @@ def parse_docx(path: str):
             idx += 1
         elif child.tag == qn("w:tbl"):
             t = Table(child, doc)
-            feat, text = _features_for_table(t)
+            feat, text = _features_for_table(t, style_cache)
             raw_records.append(("table", t, feat, text, idx))
             idx += 1
         else:

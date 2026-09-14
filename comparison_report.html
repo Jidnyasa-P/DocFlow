@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Before / After Formatting Comparison</title>
+<style>
+  body { font-family: -apple-system, Segoe UI, Arial, sans-serif; margin: 32px; color: #1a1a2e; background: #fafafa; }
+  h1 { font-size: 22px; }
+  .meta { color: #555; font-size: 13px; margin-bottom: 24px; }
+  .visual-row { display: flex; gap: 24px; margin-bottom: 32px; }
+  .visual-col { flex: 1; text-align: center; }
+  .visual-col img { max-width: 100%; border: 1px solid #ddd; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+  .note { color: #888; font-style: italic; }
+  table { border-collapse: collapse; width: 100%; font-size: 13px; background: white; }
+  th, td { border: 1px solid #e0e0e0; padding: 6px 10px; text-align: left; }
+  th { background: #0B1F3A; color: white; }
+  tr.changed { background: #eef7ee; }
+  .label-pill { background: #4FC3F7; color: #0B1F3A; padding: 2px 8px; border-radius: 10px; font-weight: 600; font-size: 12px; }
+  .text-cell { color: #333; max-width: 420px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .summary { margin: 16px 0; font-size: 14px; }
+</style>
+</head>
+<body>
+  <h1>Before / After Formatting Comparison</h1>
+  <div class="meta">Original: samples/manuscript_05.docx &nbsp;|&nbsp; Formatted: samples/formatted/manuscript_05_formatted.docx</div>
+  <p class='note'>Visual page render skipped (install LibreOffice + poppler-utils for page-image comparison; the formatting table below works regardless).</p>
+  <div class="summary"><strong>108</strong> of 110 elements had formatting changed.</div>
+  <table>
+    <tr><th>#</th><th>Detected Label</th><th>Before</th><th>After</th><th>Text</th></tr>
+    
+        <tr class="changed">
+          <td>0</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 18.0pt / B / CENTER (1)</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">Cognitive Psychology: A Comprehensive Study</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>1</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 13.0pt /  / CENTER (1)</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Dr. K. Patel</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>2</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 16.0pt / B / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">Chapter 1: Renewable Energy</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>3</td>
+          <td><span class="label-pill">Subheading</span></td>
+          <td>Calibri / 12.0pt / B / LEFT</td>
+          <td>Times New Roman / 12.0pt / B / LEFT</td>
+          <td class="text-cell">1.1 Climate Systems</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>4</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Network value standard value furthermore quality principle furthermore</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>5</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Additionally furthermore application system therefore subsequent resul</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>6</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Design therefore additionally implementation concept model framework f</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>7</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Method model application evaluation concept training output feature co</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>8</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Output design accuracy model model important important additionally co</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>9</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">However furthermore furthermore framework quality method method framew</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>10</td>
+          <td><span class="label-pill">Caption</span></td>
+          <td>Calibri / 10.0pt /  / CENTER (1)</td>
+          <td>Times New Roman / 10.0pt /  / CENTER (1)</td>
+          <td class="text-cell">Figure 11: Illustration of Sustainable Agriculture</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>11</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">• Study consequently result architecture.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>12</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">• Efficiency structure technique output design component.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>13</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">• Significant therefore strategy accuracy.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>14</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">• Module evaluation efficiency implementation structure value.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>15</td>
+          <td><span class="label-pill">Subheading</span></td>
+          <td>Calibri / 12.0pt / B / LEFT</td>
+          <td>Times New Roman / 12.0pt / B / LEFT</td>
+          <td class="text-cell">1.2 Urban Planning</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>16</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Model technique approach important accuracy application model applicat</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>17</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Principle additionally structure quality standard module principle acc</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>18</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Theory development concept function system interface process relevant </td>
+        </tr>
+        
+        <tr class="changed">
+          <td>19</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Design feature therefore significant study concept function architectu</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>20</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Component significant analysis value model model model accuracy approa</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>21</td>
+          <td><span class="label-pill">List</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / LEFT</td>
+          <td class="text-cell">1. Module furthermore application output strategy concept.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>22</td>
+          <td><span class="label-pill">List</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / LEFT</td>
+          <td class="text-cell">2. System subsequent framework architecture.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>23</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">3. Subsequent model efficiency application method efficiency function </td>
+        </tr>
+        
+        <tr class="changed">
+          <td>24</td>
+          <td><span class="label-pill">List</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / LEFT</td>
+          <td class="text-cell">4. Implementation component important however data model architecture </td>
+        </tr>
+        
+        <tr class="changed">
+          <td>25</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">5. Network quality function application accuracy structure process acc</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>26</td>
+          <td><span class="label-pill">List</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / LEFT</td>
+          <td class="text-cell">6. Theory approach subsequent design method value.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>27</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 16.0pt / B / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">Chapter 2: Urban Planning</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>28</td>
+          <td><span class="label-pill">Subheading</span></td>
+          <td>Calibri / 12.0pt / B / LEFT</td>
+          <td>Times New Roman / 12.0pt / B / LEFT</td>
+          <td class="text-cell">2.1 Space Exploration</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>29</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Consequently approach analysis structure framework framework therefore</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>30</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Standard method relevant function architecture concept approach module</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>31</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Theory principle model concept method module result furthermore design</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>32</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Significant research function important quality evaluation training te</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>33</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Therefore subsequent theory output process relevant interface data sys</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>34</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Performance analysis system training relevant sample theory architectu</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>35</td>
+          <td><span class="label-pill">Caption</span></td>
+          <td>Calibri / 10.0pt /  / CENTER (1)</td>
+          <td>Times New Roman / 10.0pt /  / CENTER (1)</td>
+          <td class="text-cell">Figure 21: Illustration of Urban Planning</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>36</td>
+          <td><span class="label-pill">Subheading</span></td>
+          <td>Calibri / 12.0pt / B / LEFT</td>
+          <td>Times New Roman / 12.0pt / B / LEFT</td>
+          <td class="text-cell">2.2 Game Theory</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>37</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Interface training important consequently method application furthermo</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>38</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Network model application design accuracy design theory performance fu</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>39</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Structure data standard design framework training principle evaluation</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>40</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Training design model input application model quality technique develo</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>41</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Study strategy feature accuracy evaluation data network architecture a</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>42</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Input model theory standard performance research efficiency sample qua</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>43</td>
+          <td><span class="label-pill">Caption</span></td>
+          <td>Calibri / 10.0pt /  / CENTER (1)</td>
+          <td>Times New Roman / 10.0pt /  / CENTER (1)</td>
+          <td class="text-cell">Figure 22: Illustration of Renaissance Art</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>44</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">• Subsequent subsequent consequently study relevant interface.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>45</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">• Process structure sample research.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>46</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">• Process architecture result process.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>47</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">• System value structure technique quality analysis performance archit</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>48</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">• Strategy network method strategy accuracy framework.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>49</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 16.0pt / B / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">Chapter 3: Renaissance Art</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>50</td>
+          <td><span class="label-pill">Subheading</span></td>
+          <td>Calibri / 12.0pt / B / LEFT</td>
+          <td>Times New Roman / 12.0pt / B / LEFT</td>
+          <td class="text-cell">3.1 Cognitive Psychology</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>51</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Research relevant structure consequently standard application study ef</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>52</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Consequently feature architecture training furthermore standard theory</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>53</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Evaluation research system analysis standard efficiency value output d</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>54</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Output component relevant module accuracy approach training implementa</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>55</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Value standard additionally significant study model research implement</td>
+        </tr>
+        
+        <tr class="">
+          <td>56</td>
+          <td><span class="label-pill">Table</span></td>
+          <td>- / -pt /  / table</td>
+          <td>- / -pt /  / table</td>
+          <td class="text-cell">R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>57</td>
+          <td><span class="label-pill">Caption</span></td>
+          <td>Calibri / 10.0pt /  / CENTER (1)</td>
+          <td>Times New Roman / 10.0pt /  / CENTER (1)</td>
+          <td class="text-cell">Table 31: Summary of Linguistics metrics</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>58</td>
+          <td><span class="label-pill">List</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / LEFT</td>
+          <td class="text-cell">1. Therefore sample concept model model accuracy.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>59</td>
+          <td><span class="label-pill">List</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / LEFT</td>
+          <td class="text-cell">2. Function furthermore result framework network principle.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>60</td>
+          <td><span class="label-pill">List</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / LEFT</td>
+          <td class="text-cell">3. Analysis evaluation approach analysis model research feature approa</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>61</td>
+          <td><span class="label-pill">List</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / LEFT</td>
+          <td class="text-cell">4. Interface output architecture result input.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>62</td>
+          <td><span class="label-pill">List</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / LEFT</td>
+          <td class="text-cell">5. Performance sample additionally module.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>63</td>
+          <td><span class="label-pill">Subheading</span></td>
+          <td>Calibri / 12.0pt / B / LEFT</td>
+          <td>Times New Roman / 12.0pt / B / LEFT</td>
+          <td class="text-cell">3.2 Game Theory</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>64</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Consequently component sample module relevant sample analysis techniqu</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>65</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Relevant training framework furthermore process input training therefo</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>66</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Model training important quality implementation input module efficienc</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>67</td>
+          <td><span class="label-pill">Subheading</span></td>
+          <td>Calibri / 12.0pt / B / LEFT</td>
+          <td>Times New Roman / 12.0pt / B / LEFT</td>
+          <td class="text-cell">3.3 Renewable Energy</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>68</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Quality input theory module model consequently method analysis interfa</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>69</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Structure input therefore process however function value output value </td>
+        </tr>
+        
+        <tr class="changed">
+          <td>70</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Concept analysis theory input consequently structure performance furth</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>71</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Input therefore consequently component approach module standard techni</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>72</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">• Model process additionally system model relevant.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>73</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">• Model however model result feature structure additionally therefore </td>
+        </tr>
+        
+        <tr class="changed">
+          <td>74</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">• Result result consequently value standard analysis application compo</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>75</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">• Evaluation data significant therefore principle model however design</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>76</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">• Implementation subsequent approach efficiency important accuracy.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>77</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 18.0pt / B / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">Chapter 4: Neural Networks</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>78</td>
+          <td><span class="label-pill">Subheading</span></td>
+          <td>Calibri / 12.0pt / B / LEFT</td>
+          <td>Times New Roman / 12.0pt / B / LEFT</td>
+          <td class="text-cell">4.1 Game Theory</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>79</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Additionally accuracy efficiency strategy process feature implementati</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>80</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Output training concept principle strategy module development strategy</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>81</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Method technique performance training design subsequent method design </td>
+        </tr>
+        
+        <tr class="changed">
+          <td>82</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">• Approach technique however input design analysis result analysis fur</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>83</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">• Development network development however approach component data prin</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>84</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">• Training architecture result significant subsequent.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>85</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">• Quality output framework technique important.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>86</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">• Input process concept process however method.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>87</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Analysis development efficiency concept module however network system </td>
+        </tr>
+        
+        <tr class="changed">
+          <td>88</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Principle principle efficiency design method training application perf</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>89</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Technique principle result additionally model implementation design su</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>90</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Data efficiency evaluation interface architecture furthermore method a</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>91</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Interface analysis accuracy model efficiency sample interface strategy</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>92</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Accuracy system study concept relevant approach design consequently. S</td>
+        </tr>
+        
+        <tr class="">
+          <td>93</td>
+          <td><span class="label-pill">Table</span></td>
+          <td>- / -pt /  / table</td>
+          <td>- / -pt /  / table</td>
+          <td class="text-cell">R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>94</td>
+          <td><span class="label-pill">Caption</span></td>
+          <td>Calibri / 10.0pt /  / CENTER (1)</td>
+          <td>Times New Roman / 10.0pt /  / CENTER (1)</td>
+          <td class="text-cell">Table 42: Summary of Space Exploration metrics</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>95</td>
+          <td><span class="label-pill">Subheading</span></td>
+          <td>Calibri / 12.0pt / B / LEFT</td>
+          <td>Times New Roman / 12.0pt / B / LEFT</td>
+          <td class="text-cell">4.3 Ancient Civilizations</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>96</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Network value architecture application important concept significant d</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>97</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Value value development input result framework feature study furthermo</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>98</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Component interface study implementation approach value output applica</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>99</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Consequently architecture component however significant theory techniq</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>100</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 12.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Design however method network important function method interface fram</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>101</td>
+          <td><span class="label-pill">Body Paragraph</span></td>
+          <td>Calibri / 11.0pt /  / LEFT</td>
+          <td>Times New Roman / 12.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">Method however significant relevant development quality strategy compo</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>102</td>
+          <td><span class="label-pill">Chapter Heading</span></td>
+          <td>Calibri / 16.0pt / B / LEFT</td>
+          <td>Times New Roman / 16.0pt / B / LEFT</td>
+          <td class="text-cell">References</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>103</td>
+          <td><span class="label-pill">Reference</span></td>
+          <td>Calibri / 10.0pt /  / LEFT</td>
+          <td>Times New Roman / 10.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">[1] T. Bergstrom, "Quantum Computing Basics", Journal of Data Structur</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>104</td>
+          <td><span class="label-pill">Reference</span></td>
+          <td>Calibri / 10.0pt /  / LEFT</td>
+          <td>Times New Roman / 10.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">[2] Dr. M. Chen, "Renewable Energy", Journal of Behavioral Economics, </td>
+        </tr>
+        
+        <tr class="changed">
+          <td>105</td>
+          <td><span class="label-pill">Reference</span></td>
+          <td>Calibri / 10.0pt /  / LEFT</td>
+          <td>Times New Roman / 10.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">[3] T. Bergstrom, "Sustainable Agriculture", Journal of Linguistics, 2</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>106</td>
+          <td><span class="label-pill">Reference</span></td>
+          <td>Calibri / 10.0pt /  / LEFT</td>
+          <td>Times New Roman / 10.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">[4] Dr. S. Novak, "Renaissance Art", Journal of Climate Systems, 2023.</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>107</td>
+          <td><span class="label-pill">Reference</span></td>
+          <td>Calibri / 10.0pt /  / LEFT</td>
+          <td>Times New Roman / 10.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">[5] Dr. M. Chen, "Sustainable Agriculture", Journal of Space Explorati</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>108</td>
+          <td><span class="label-pill">Reference</span></td>
+          <td>Calibri / 10.0pt /  / LEFT</td>
+          <td>Times New Roman / 10.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">[6] Dr. K. Patel, "Cognitive Psychology", Journal of Sustainable Agric</td>
+        </tr>
+        
+        <tr class="changed">
+          <td>109</td>
+          <td><span class="label-pill">Reference</span></td>
+          <td>Calibri / 10.0pt /  / LEFT</td>
+          <td>Times New Roman / 10.0pt /  / JUSTIFY (3)</td>
+          <td class="text-cell">[7] T. Bergstrom, "Sustainable Agriculture", Journal of Data Structure</td>
+        </tr>
+        
+  </table>
+</body>
+</html>

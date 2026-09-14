@@ -10,7 +10,7 @@ Usage:
 """
 import argparse
 import os
-import resource
+import psutil
 import sys
 import time
 
@@ -19,10 +19,9 @@ from main_pipeline import run_pipeline  # noqa: E402
 
 
 def peak_rss_mb() -> float:
-    """Peak resident set size in MB, since process start (Linux/Mac)."""
-    kb = resource.getrusage(resource.RUSAGE_SELF).ru_maxrss
-    # Linux reports KB, macOS reports bytes -- normalize.
-    return kb / 1024 if sys.platform != "darwin" else kb / (1024 * 1024)
+    """Current resident set size in MB (Cross-platform for Windows/Linux/Mac)."""
+    process = psutil.Process(os.getpid())
+    return process.memory_info().rss / (1024 * 1024)
 
 
 def main():
