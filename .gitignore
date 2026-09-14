@@ -1,0 +1,39 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- Jupyter / Colab ---
+.ipynb_checkpoints/
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Pipeline-generated output (regenerate anytime, don't commit) ---
+samples/formatted/
+samples/*_formatted.docx
+samples/*_formatted_formatted.docx
+samples/scale_test_manuscript.docx
+samples/scale_test_formatted.docx
+samples/*_comparison.md
+
+# --- Local scratch ---
+*.tmp
+
+# --- Keep these even though they look like generated output -- they're real deliverables ---
+!model/artifacts/classifier.joblib
+!model/artifacts/scaler.joblib
+!model/artifacts/evaluation_report.md
+!model/artifacts/confusion_matrix.png
+!model/artifacts/training_data.csv

@@ -1,4 +1,698 @@
 source_doc,order_index,text_preview,label_suggestion,font_size,is_bold,is_italic,alignment,indent_left,indent_first_line,space_before,space_after,line_spacing,is_all_caps,starts_with_number,word_count,position_ratio_in_doc,style_name_hash,has_image,is_table_element
+Copy of style_aware_01.docx,0,Behavioral Economics: A Comprehensive Study,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,5,0.0,4,0,0
+Copy of style_aware_01.docx,1,L. Fontaine,Body Paragraph,13.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,2,0.0087,0,0,0
+Copy of style_aware_01.docx,2,Chapter 1: Data Structures and Algorithms,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,6,0.0174,1,0,0
+Copy of style_aware_01.docx,3,1.1 Neural Networks,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.0261,2,0,0
+Copy of style_aware_01.docx,4,Data network output process result application theory method training result int,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,82,0.0348,0,0,0
+Copy of style_aware_01.docx,5,Architecture research study furthermore evaluation strategy efficiency principle,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,38,0.0435,0,0,0
+Copy of style_aware_01.docx,6,Concept efficiency result structure development concept interface accuracy frame,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,47,0.0522,0,0,0
+Copy of style_aware_01.docx,7,1. Value method output development.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.0609,6,0,0
+Copy of style_aware_01.docx,8,2. Approach study strategy data analysis.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.0696,6,0,0
+Copy of style_aware_01.docx,9,3. Architecture design module analysis.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.0783,6,0,0
+Copy of style_aware_01.docx,10,4. Significant model method output significant technique.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.087,6,0,0
+Copy of style_aware_01.docx,11,5. Important performance evaluation strategy implementation.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.0957,6,0,0
+Copy of style_aware_01.docx,12,6. Approach approach efficiency standard quality quality feature.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,8,0.1043,6,0,0
+Copy of style_aware_01.docx,13,1.2 Climate Systems,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.113,2,0,0
+Copy of style_aware_01.docx,14,Additionally performance quality furthermore structure component model output co,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,31,0.1217,0,0,0
+Copy of style_aware_01.docx,15,Additionally input value component efficiency evaluation therefore model model a,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,60,0.1304,0,0,0
+Copy of style_aware_01.docx,16,Quality subsequent evaluation design interface interface framework model system ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,78,0.1391,0,0,0
+Copy of style_aware_01.docx,17,Network module quality network training furthermore component performance interf,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,64,0.1478,0,0,0
+Copy of style_aware_01.docx,18,Figure 12: Illustration of Quantum Computing Basics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.1565,5,0,0
+Copy of style_aware_01.docx,19,Chapter 2: Renaissance Art,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.1652,1,0,0
+Copy of style_aware_01.docx,20,2.1 Renaissance Art,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.1739,2,0,0
+Copy of style_aware_01.docx,21,Design module network architecture efficiency furthermore research result accura,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,59,0.1826,0,0,0
+Copy of style_aware_01.docx,22,Quality training development analysis subsequent relevant application subsequent,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,53,0.1913,0,0,0
+Copy of style_aware_01.docx,23,Feature output evaluation function system study technique result. Accuracy netwo,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,49,0.2,0,0,0
+Copy of style_aware_01.docx,24,Component network architecture model consequently principle however consequently,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,96,0.2087,0,0,0
+Copy of style_aware_01.docx,25,Accuracy technique output output method principle result design additionally com,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,85,0.2174,0,0,0
+Copy of style_aware_01.docx,26,Framework structure quality theory study sample feature performance additionally,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,46,0.2261,0,0,0
+Copy of style_aware_01.docx,27,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.2348,9,0,1
+Copy of style_aware_01.docx,28,Table 21: Summary of Data Structures and Algorithms metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,9,0.2435,5,0,0
+Copy of style_aware_01.docx,29,2.2 Behavioral Economics,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.2522,2,0,0
+Copy of style_aware_01.docx,30,Study data efficiency accuracy architecture implementation framework consequentl,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,64,0.2609,0,0,0
+Copy of style_aware_01.docx,31,Value technique performance input strategy system system module feature standard,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,101,0.2696,0,0,0
+Copy of style_aware_01.docx,32,Structure analysis system result accuracy result evaluation theory approach inte,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,58,0.2783,0,0,0
+Copy of style_aware_01.docx,33,Input analysis quality however standard technique performance application. Frame,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,32,0.287,0,0,0
+Copy of style_aware_01.docx,34,1. Method performance significant result.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.2957,6,0,0
+Copy of style_aware_01.docx,35,2. Analysis theory efficiency however development.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.3043,6,0,0
+Copy of style_aware_01.docx,36,3. Input framework theory standard significant.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.313,6,0,0
+Copy of style_aware_01.docx,37,4. Training additionally module subsequent approach sample sample accuracy archi,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.3217,6,0,0
+Copy of style_aware_01.docx,38,5. Implementation performance additionally performance value development.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.3304,6,0,0
+Copy of style_aware_01.docx,39,6. Function training training design sample.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.3391,6,0,0
+Copy of style_aware_01.docx,40,2.3 Sustainable Agriculture,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.3478,2,0,0
+Copy of style_aware_01.docx,41,Concept performance training network component input relevant analysis relevant.,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,65,0.3565,0,0,0
+Copy of style_aware_01.docx,42,Concept subsequent interface design important module result relevant structure. ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,74,0.3652,0,0,0
+Copy of style_aware_01.docx,43,Important input significant concept significant value quality function architect,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,88,0.3739,0,0,0
+Copy of style_aware_01.docx,44,Therefore input method evaluation significant performance structure research sig,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,65,0.3826,0,0,0
+Copy of style_aware_01.docx,45,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.3913,9,0,1
+Copy of style_aware_01.docx,46,Table 23: Summary of Space Exploration metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.4,5,0,0
+Copy of style_aware_01.docx,47,Chapter 3: Space Exploration,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.4087,1,0,0
+Copy of style_aware_01.docx,48,3.1 Behavioral Economics,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.4174,2,0,0
+Copy of style_aware_01.docx,49,Efficiency input significant relevant process model data system architecture eva,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,39,0.4261,0,0,0
+Copy of style_aware_01.docx,50,Interface evaluation strategy relevant principle development strategy component ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,42,0.4348,0,0,0
+Copy of style_aware_01.docx,51,However module system technique application additionally standard result additio,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,42,0.4435,0,0,0
+Copy of style_aware_01.docx,52,Value technique study strategy training technique important furthermore subseque,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,48,0.4522,0,0,0
+Copy of style_aware_01.docx,53,Module subsequent method however technique analysis training output output appro,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,54,0.4609,0,0,0
+Copy of style_aware_01.docx,54,Figure 31: Illustration of Data Structures and Algorithms,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,8,0.4696,5,0,0
+Copy of style_aware_01.docx,55,3.2 Urban Planning,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.4783,2,0,0
+Copy of style_aware_01.docx,56,Efficiency analysis efficiency furthermore function efficiency principle evaluat,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,42,0.487,0,0,0
+Copy of style_aware_01.docx,57,Input standard framework module strategy furthermore strategy relevant process e,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,86,0.4957,0,0,0
+Copy of style_aware_01.docx,58,Furthermore architecture principle additionally relevant theory input subsequent,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,55,0.5043,0,0,0
+Copy of style_aware_01.docx,59,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.513,9,0,1
+Copy of style_aware_01.docx,60,Table 32: Summary of Sustainable Agriculture metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.5217,5,0,0
+Copy of style_aware_01.docx,61,1. Model important implementation component study theory additionally standard.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,9,0.5304,6,0,0
+Copy of style_aware_01.docx,62,2. Consequently function concept network approach.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.5391,6,0,0
+Copy of style_aware_01.docx,63,3. Significant evaluation important data performance accuracy technique concept ,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.5478,6,0,0
+Copy of style_aware_01.docx,64,4. Method theory theory important.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.5565,6,0,0
+Copy of style_aware_01.docx,65,5. Consequently evaluation principle performance analysis input feature addition,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.5652,6,0,0
+Copy of style_aware_01.docx,66,6. Input concept standard output structure framework method important.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,9,0.5739,6,0,0
+Copy of style_aware_01.docx,67,3.3 Quantum Computing Basics,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,4,0.5826,2,0,0
+Copy of style_aware_01.docx,68,Design evaluation subsequent important theory standard sample interface relevant,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,84,0.5913,0,0,0
+Copy of style_aware_01.docx,69,Input framework quality efficiency interface data quality standard design furthe,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,72,0.6,0,0,0
+Copy of style_aware_01.docx,70,Accuracy network evaluation output relevant efficiency approach study value rese,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,63,0.6087,0,0,0
+Copy of style_aware_01.docx,71,Function theory process research model application architecture relevant princip,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,62,0.6174,0,0,0
+Copy of style_aware_01.docx,72,Important interface however efficiency standard subsequent performance data howe,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,37,0.6261,0,0,0
+Copy of style_aware_01.docx,73,Technique development accuracy architecture study sample accuracy data significa,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,78,0.6348,0,0,0
+Copy of style_aware_01.docx,74,Figure 33: Illustration of Quantum Computing Basics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.6435,5,0,0
+Copy of style_aware_01.docx,75,1. Furthermore sample implementation architecture architecture evaluation concep,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.6522,6,0,0
+Copy of style_aware_01.docx,76,2. Efficiency implementation analysis implementation.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.6609,6,0,0
+Copy of style_aware_01.docx,77,3. Standard result design research strategy model evaluation accuracy component.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.6696,6,0,0
+Copy of style_aware_01.docx,78,4. Model analysis process output architecture efficiency principle architecture.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,9,0.6783,6,0,0
+Copy of style_aware_01.docx,79,Chapter 4: Ancient Civilizations,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.687,1,0,0
+Copy of style_aware_01.docx,80,4.1 Sustainable Agriculture,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.6957,2,0,0
+Copy of style_aware_01.docx,81,Study value function technique result model data process. Implementation however,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,62,0.7043,0,0,0
+Copy of style_aware_01.docx,82,Approach implementation quality technique structure development training design ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,64,0.713,0,0,0
+Copy of style_aware_01.docx,83,Quality sample approach performance value implementation application performance,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,54,0.7217,0,0,0
+Copy of style_aware_01.docx,84,Feature value system method furthermore therefore component theory therefore dat,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,51,0.7304,0,0,0
+Copy of style_aware_01.docx,85,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.7391,9,0,1
+Copy of style_aware_01.docx,86,Table 41: Summary of Neural Networks metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.7478,5,0,0
+Copy of style_aware_01.docx,87,Figure 41: Illustration of Quantum Computing Basics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.7565,5,0,0
+Copy of style_aware_01.docx,88,4.2 Quantum Computing Basics,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,4,0.7652,2,0,0
+Copy of style_aware_01.docx,89,Feature performance interface model model analysis furthermore additionally valu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,40,0.7739,0,0,0
+Copy of style_aware_01.docx,90,Structure model important technique furthermore theory strategy strategy compone,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,66,0.7826,0,0,0
+Copy of style_aware_01.docx,91,Approach feature evaluation relevant structure approach data strategy network ac,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,44,0.7913,0,0,0
+Copy of style_aware_01.docx,92,Model training study input value network module technique principle concept syst,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,75,0.8,0,0,0
+Copy of style_aware_01.docx,93,4.3 Cognitive Psychology,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.8087,2,0,0
+Copy of style_aware_01.docx,94,Concept component interface strategy technique relevant research system addition,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,65,0.8174,0,0,0
+Copy of style_aware_01.docx,95,Efficiency concept development significant principle study furthermore component,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,46,0.8261,0,0,0
+Copy of style_aware_01.docx,96,However furthermore interface system feature concept analysis principle system s,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,36,0.8348,0,0,0
+Copy of style_aware_01.docx,97,Data relevant system consequently principle research design however training eva,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,100,0.8435,0,0,0
+Copy of style_aware_01.docx,98,Standard training structure implementation evaluation output therefore concept t,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,89,0.8522,0,0,0
+Copy of style_aware_01.docx,99,1. Strategy therefore input however consequently process.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.8609,6,0,0
+Copy of style_aware_01.docx,100,2. Process strategy structure application value feature design.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,8,0.8696,6,0,0
+Copy of style_aware_01.docx,101,3. Additionally process interface feature important important function.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,8,0.8783,6,0,0
+Copy of style_aware_01.docx,102,4.4 Sustainable Agriculture,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.887,2,0,0
+Copy of style_aware_01.docx,103,However component performance application subsequent consequently architecture e,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,78,0.8957,0,0,0
+Copy of style_aware_01.docx,104,However training system network furthermore development framework relevant evalu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,61,0.9043,0,0,0
+Copy of style_aware_01.docx,105,Analysis relevant efficiency application efficiency value module research system,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,80,0.913,0,0,0
+Copy of style_aware_01.docx,106,Process significant network application design sample method subsequent. Network,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,54,0.9217,0,0,0
+Copy of style_aware_01.docx,107,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.9304,9,0,1
+Copy of style_aware_01.docx,108,Table 44: Summary of Marine Biology metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.9391,5,0,0
+Copy of style_aware_01.docx,109,References,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,1,0.9478,1,0,0
+Copy of style_aware_01.docx,110,"[1] Dr. A. Sharma, ""Urban Planning"", Journal of Urban Planning, 2015.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9565,0,0,0
+Copy of style_aware_01.docx,111,"[2] L. Fontaine, ""Data Structures and Algorithms"", Journal of Cognitive Psycholo",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,12,0.9652,0,0,0
+Copy of style_aware_01.docx,112,"[3] Prof. J. Alvarez, ""Renaissance Art"", Journal of Urban Planning, 2024.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9739,0,0,0
+Copy of style_aware_01.docx,113,"[4] Dr. M. Chen, ""Urban Planning"", Journal of Behavioral Economics, 2016.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9826,0,0,0
+Copy of style_aware_01.docx,114,"[5] Prof. J. Alvarez, ""Space Exploration"", Journal of Cognitive Psychology, 2022",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9913,0,0,0
+Copy of style_aware_02.docx,0,Renaissance Art: A Comprehensive Study,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,5,0.0,4,0,0
+Copy of style_aware_02.docx,1,L. Fontaine,Body Paragraph,13.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,2,0.0066,0,0,0
+Copy of style_aware_02.docx,2,Chapter 1: Sustainable Agriculture,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.0132,1,0,0
+Copy of style_aware_02.docx,3,1.1 Neural Networks,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.0197,2,0,0
+Copy of style_aware_02.docx,4,Training architecture development concept performance approach input function va,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,64,0.0263,0,0,0
+Copy of style_aware_02.docx,5,Standard feature approach however framework application result significant value,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,92,0.0329,0,0,0
+Copy of style_aware_02.docx,6,Principle significant process output structure implementation therefore standard,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,62,0.0395,0,0,0
+Copy of style_aware_02.docx,7,Study data however study subsequent research quality network implementation trai,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,76,0.0461,0,0,0
+Copy of style_aware_02.docx,8,Therefore framework system value accuracy module relevant system important resea,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,108,0.0526,0,0,0
+Copy of style_aware_02.docx,9,Component model evaluation however training development efficiency output import,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,49,0.0592,0,0,0
+Copy of style_aware_02.docx,10,1. Feature sample result study system efficiency training structure research con,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.0658,6,0,0
+Copy of style_aware_02.docx,11,2. Strategy development output principle data output additionally implementation,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,9,0.0724,6,0,0
+Copy of style_aware_02.docx,12,3. Development function application framework.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.0789,6,0,0
+Copy of style_aware_02.docx,13,4. Consequently model approach design system framework.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.0855,6,0,0
+Copy of style_aware_02.docx,14,1.2 Urban Planning,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.0921,2,0,0
+Copy of style_aware_02.docx,15,Analysis structure standard consequently concept result theory study relevant su,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,80,0.0987,0,0,0
+Copy of style_aware_02.docx,16,Application research module theory technique design technique technique theory d,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,81,0.1053,0,0,0
+Copy of style_aware_02.docx,17,Component structure implementation training consequently function design subsequ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,86,0.1118,0,0,0
+Copy of style_aware_02.docx,18,Process however sample theory application relevant strategy performance evaluati,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,89,0.1184,0,0,0
+Copy of style_aware_02.docx,19,Figure 12: Illustration of Neural Networks,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,6,0.125,5,0,0
+Copy of style_aware_02.docx,20,1. Research technique performance subsequent.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.1316,6,0,0
+Copy of style_aware_02.docx,21,2. Feature interface concept network theory consequently data feature feature tr,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.1382,6,0,0
+Copy of style_aware_02.docx,22,3. Technique application module performance feature value framework data output ,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.1447,6,0,0
+Copy of style_aware_02.docx,23,4. Implementation standard subsequent efficiency however principle design implem,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.1513,6,0,0
+Copy of style_aware_02.docx,24,5. Standard however interface subsequent data.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.1579,6,0,0
+Copy of style_aware_02.docx,25,1.3 Cognitive Psychology,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.1645,2,0,0
+Copy of style_aware_02.docx,26,Method theory architecture research process accuracy input development sample va,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,47,0.1711,0,0,0
+Copy of style_aware_02.docx,27,Analysis value result data theory input subsequent performance however developme,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,35,0.1776,0,0,0
+Copy of style_aware_02.docx,28,Design relevant sample input relevant module furthermore result value standard d,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,66,0.1842,0,0,0
+Copy of style_aware_02.docx,29,Therefore interface standard analysis additionally interface approach structure ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,61,0.1908,0,0,0
+Copy of style_aware_02.docx,30,Training therefore module network training analysis system analysis data efficie,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,47,0.1974,0,0,0
+Copy of style_aware_02.docx,31,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.2039,9,0,1
+Copy of style_aware_02.docx,32,Table 13: Summary of Ancient Civilizations metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.2105,5,0,0
+Copy of style_aware_02.docx,33,1. Theory process result training design therefore network.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,8,0.2171,6,0,0
+Copy of style_aware_02.docx,34,2. Structure design evaluation framework output value input consequently study.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.2237,6,0,0
+Copy of style_aware_02.docx,35,3. Method system quality process efficiency component study method strategy.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.2303,6,0,0
+Copy of style_aware_02.docx,36,4. Method value important data implementation theory result relevant however.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.2368,6,0,0
+Copy of style_aware_02.docx,37,5. Principle structure efficiency consequently additionally efficiency.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.2434,6,0,0
+Copy of style_aware_02.docx,38,Chapter 2: Cognitive Psychology,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.25,1,0,0
+Copy of style_aware_02.docx,39,2.1 Space Exploration,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.2566,2,0,0
+Copy of style_aware_02.docx,40,Important network feature additionally principle module relevant important appro,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,78,0.2632,0,0,0
+Copy of style_aware_02.docx,41,Input evaluation significant concept feature efficiency research network strateg,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,62,0.2697,0,0,0
+Copy of style_aware_02.docx,42,Additionally standard process research quality framework system accuracy design ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,57,0.2763,0,0,0
+Copy of style_aware_02.docx,43,Accuracy feature quality value significant research development concept analysis,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,65,0.2829,0,0,0
+Copy of style_aware_02.docx,44,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.2895,9,0,1
+Copy of style_aware_02.docx,45,Table 21: Summary of Cognitive Psychology metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.2961,5,0,0
+Copy of style_aware_02.docx,46,2.2 Behavioral Economics,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.3026,2,0,0
+Copy of style_aware_02.docx,47,Concept efficiency study evaluation function however design module additionally ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,61,0.3092,0,0,0
+Copy of style_aware_02.docx,48,Implementation model furthermore component method approach research output syste,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,89,0.3158,0,0,0
+Copy of style_aware_02.docx,49,Value interface furthermore sample additionally model additionally therefore sig,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,52,0.3224,0,0,0
+Copy of style_aware_02.docx,50,Network technique output evaluation performance subsequent model value however a,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,103,0.3289,0,0,0
+Copy of style_aware_02.docx,51,Performance process design standard model quality analysis however analysis func,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,89,0.3355,0,0,0
+Copy of style_aware_02.docx,52,Output therefore result model data however therefore model subsequent consequent,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,90,0.3421,0,0,0
+Copy of style_aware_02.docx,53,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.3487,9,0,1
+Copy of style_aware_02.docx,54,Table 22: Summary of Data Structures and Algorithms metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,9,0.3553,5,0,0
+Copy of style_aware_02.docx,55,Figure 22: Illustration of Quantum Computing Basics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.3618,5,0,0
+Copy of style_aware_02.docx,56,2.3 Sustainable Agriculture,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.3684,2,0,0
+Copy of style_aware_02.docx,57,Method furthermore concept feature method method therefore method module system ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,41,0.375,0,0,0
+Copy of style_aware_02.docx,58,Study accuracy significant system value method result structure subsequent subse,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,56,0.3816,0,0,0
+Copy of style_aware_02.docx,59,System data analysis subsequent technique implementation training sample model q,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,70,0.3882,0,0,0
+Copy of style_aware_02.docx,60,Approach however quality quality performance function network system important. ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,65,0.3947,0,0,0
+Copy of style_aware_02.docx,61,Figure 23: Illustration of Quantum Computing Basics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.4013,5,0,0
+Copy of style_aware_02.docx,62,1. Feature standard accuracy input research.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.4079,6,0,0
+Copy of style_aware_02.docx,63,2. Theory function study theory.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.4145,6,0,0
+Copy of style_aware_02.docx,64,3. However model architecture implementation structure training system design st,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.4211,6,0,0
+Copy of style_aware_02.docx,65,4. Performance strategy standard quality interface interface however technique f,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.4276,6,0,0
+Copy of style_aware_02.docx,66,5. Interface approach accuracy theory design.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.4342,6,0,0
+Copy of style_aware_02.docx,67,6. Component framework principle research data.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.4408,6,0,0
+Copy of style_aware_02.docx,68,Chapter 3: Sustainable Agriculture,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.4474,1,0,0
+Copy of style_aware_02.docx,69,3.1 Behavioral Economics,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.4539,2,0,0
+Copy of style_aware_02.docx,70,Input design additionally accuracy however theory analysis data application anal,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,97,0.4605,0,0,0
+Copy of style_aware_02.docx,71,Method quality principle standard study architecture module evaluation evaluatio,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,85,0.4671,0,0,0
+Copy of style_aware_02.docx,72,Framework therefore study study network efficiency design value strategy interfa,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,41,0.4737,0,0,0
+Copy of style_aware_02.docx,73,Performance network application component module study therefore data model inpu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,73,0.4803,0,0,0
+Copy of style_aware_02.docx,74,Subsequent network input development research quality however theory however imp,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,43,0.4868,0,0,0
+Copy of style_aware_02.docx,75,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.4934,9,0,1
+Copy of style_aware_02.docx,76,Table 31: Summary of Space Exploration metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.5,5,0,0
+Copy of style_aware_02.docx,77,Figure 31: Illustration of Climate Systems,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,6,0.5066,5,0,0
+Copy of style_aware_02.docx,78,3.2 Marine Biology,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.5132,2,0,0
+Copy of style_aware_02.docx,79,Theory structure training function technique application however study implement,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,103,0.5197,0,0,0
+Copy of style_aware_02.docx,80,Data interface standard study quality standard additionally output therefore stu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,93,0.5263,0,0,0
+Copy of style_aware_02.docx,81,Network therefore function efficiency module network system subsequent design st,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,54,0.5329,0,0,0
+Copy of style_aware_02.docx,82,Performance input component function input strategy function value principle the,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,55,0.5395,0,0,0
+Copy of style_aware_02.docx,83,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.5461,9,0,1
+Copy of style_aware_02.docx,84,Table 32: Summary of Urban Planning metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.5526,5,0,0
+Copy of style_aware_02.docx,85,Figure 32: Illustration of Ancient Civilizations,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,6,0.5592,5,0,0
+Copy of style_aware_02.docx,86,3.3 Sustainable Agriculture,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.5658,2,0,0
+Copy of style_aware_02.docx,87,Quality component value quality principle network design network structure input,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,83,0.5724,0,0,0
+Copy of style_aware_02.docx,88,Significant strategy architecture performance model implementation technique met,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,56,0.5789,0,0,0
+Copy of style_aware_02.docx,89,Process model research however furthermore important structure approach standard,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,45,0.5855,0,0,0
+Copy of style_aware_02.docx,90,Model strategy important study subsequent concept network design data interface ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,82,0.5921,0,0,0
+Copy of style_aware_02.docx,91,Relevant implementation analysis process efficiency therefore feature output met,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,41,0.5987,0,0,0
+Copy of style_aware_02.docx,92,Performance network process development quality model result result process outp,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,78,0.6053,0,0,0
+Copy of style_aware_02.docx,93,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.6118,9,0,1
+Copy of style_aware_02.docx,94,Table 33: Summary of Climate Systems metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.6184,5,0,0
+Copy of style_aware_02.docx,95,Chapter 4: Behavioral Economics,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.625,1,0,0
+Copy of style_aware_02.docx,96,4.1 Neural Networks,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.6316,2,0,0
+Copy of style_aware_02.docx,97,Research output standard approach sample standard important implementation. Cons,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,67,0.6382,0,0,0
+Copy of style_aware_02.docx,98,Analysis output approach accuracy principle additionally network research conseq,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,43,0.6447,0,0,0
+Copy of style_aware_02.docx,99,Principle approach structure feature network architecture architecture analysis ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,50,0.6513,0,0,0
+Copy of style_aware_02.docx,100,Training consequently design function feature application research analysis howe,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,85,0.6579,0,0,0
+Copy of style_aware_02.docx,101,Figure 41: Illustration of Sustainable Agriculture,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,6,0.6645,5,0,0
+Copy of style_aware_02.docx,102,4.2 Ancient Civilizations,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.6711,2,0,0
+Copy of style_aware_02.docx,103,Quality application framework subsequent consequently model furthermore function,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,39,0.6776,0,0,0
+Copy of style_aware_02.docx,104,Technique result subsequent input system design process evaluation result. Princ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,32,0.6842,0,0,0
+Copy of style_aware_02.docx,105,Network framework network model theory application subsequent strategy function ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,81,0.6908,0,0,0
+Copy of style_aware_02.docx,106,However framework study theory development sample theory design. Design relevant,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,71,0.6974,0,0,0
+Copy of style_aware_02.docx,107,4.3 Climate Systems,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.7039,2,0,0
+Copy of style_aware_02.docx,108,Feature theory implementation system input approach study concept training relev,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,59,0.7105,0,0,0
+Copy of style_aware_02.docx,109,Implementation however structure analysis network component efficiency approach ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,80,0.7171,0,0,0
+Copy of style_aware_02.docx,110,Subsequent network research sample interface module framework however quality th,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,87,0.7237,0,0,0
+Copy of style_aware_02.docx,111,Result subsequent interface quality significant strategy design technique furthe,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,57,0.7303,0,0,0
+Copy of style_aware_02.docx,112,1. Important approach quality sample technique principle.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.7368,6,0,0
+Copy of style_aware_02.docx,113,2. Output research application system feature performance framework interface.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,9,0.7434,6,0,0
+Copy of style_aware_02.docx,114,3. Strategy architecture important framework furthermore structure sample conseq,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,9,0.75,6,0,0
+Copy of style_aware_02.docx,115,4. Analysis consequently application standard application consequently however a,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.7566,6,0,0
+Copy of style_aware_02.docx,116,5. Theory function network design research.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.7632,6,0,0
+Copy of style_aware_02.docx,117,4.4 Quantum Computing Basics,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,4,0.7697,2,0,0
+Copy of style_aware_02.docx,118,Design analysis function therefore architecture value structure quality principl,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,90,0.7763,0,0,0
+Copy of style_aware_02.docx,119,Additionally development consequently application principle component quality ac,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,101,0.7829,0,0,0
+Copy of style_aware_02.docx,120,Principle process relevant development performance value design development tech,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,67,0.7895,0,0,0
+Copy of style_aware_02.docx,121,Theory feature strategy data approach analysis application method architecture f,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,97,0.7961,0,0,0
+Copy of style_aware_02.docx,122,Architecture concept network concept value technique design network study interf,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,91,0.8026,0,0,0
+Copy of style_aware_02.docx,123,Design module standard accuracy evaluation concept structure value result howeve,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,60,0.8092,0,0,0
+Copy of style_aware_02.docx,124,Chapter 5: Climate Systems,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.8158,1,0,0
+Copy of style_aware_02.docx,125,5.1 Data Structures and Algorithms,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.8224,2,0,0
+Copy of style_aware_02.docx,126,Network result theory input framework data principle theory training study featu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,77,0.8289,0,0,0
+Copy of style_aware_02.docx,127,Important strategy significant data study feature module training architecture c,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,35,0.8355,0,0,0
+Copy of style_aware_02.docx,128,Training therefore technique input additionally however however component strate,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,43,0.8421,0,0,0
+Copy of style_aware_02.docx,129,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.8487,9,0,1
+Copy of style_aware_02.docx,130,Table 51: Summary of Climate Systems metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.8553,5,0,0
+Copy of style_aware_02.docx,131,5.2 Renaissance Art,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.8618,2,0,0
+Copy of style_aware_02.docx,132,Design feature input system data performance analysis function development impor,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,41,0.8684,0,0,0
+Copy of style_aware_02.docx,133,Consequently standard module structure development analysis result evaluation co,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,29,0.875,0,0,0
+Copy of style_aware_02.docx,134,Application however evaluation standard module implementation furthermore framew,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,61,0.8816,0,0,0
+Copy of style_aware_02.docx,135,Sample research development standard sample principle quality significant signif,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,89,0.8882,0,0,0
+Copy of style_aware_02.docx,136,Module method process therefore method function subsequent output furthermore re,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,86,0.8947,0,0,0
+Copy of style_aware_02.docx,137,Architecture model principle module furthermore technique important relevant. Ef,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,29,0.9013,0,0,0
+Copy of style_aware_02.docx,138,5.3 Urban Planning,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.9079,2,0,0
+Copy of style_aware_02.docx,139,Therefore value feature concept study model analysis sample evaluation therefore,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,90,0.9145,0,0,0
+Copy of style_aware_02.docx,140,Framework module consequently efficiency evaluation efficiency implementation su,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,94,0.9211,0,0,0
+Copy of style_aware_02.docx,141,However therefore process strategy framework model component efficiency developm,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,46,0.9276,0,0,0
+Copy of style_aware_02.docx,142,Efficiency efficiency function design network concept framework network theory a,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,85,0.9342,0,0,0
+Copy of style_aware_02.docx,143,Important theory method application training interface component implementation ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,63,0.9408,0,0,0
+Copy of style_aware_02.docx,144,Principle quality significant framework analysis furthermore principle system th,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,85,0.9474,0,0,0
+Copy of style_aware_02.docx,145,References,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,1,0.9539,1,0,0
+Copy of style_aware_02.docx,146,"[1] Dr. M. Chen, ""Cognitive Psychology"", Journal of Urban Planning, 2015.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9605,0,0,0
+Copy of style_aware_02.docx,147,"[2] Prof. J. Alvarez, ""Behavioral Economics"", Journal of Renaissance Art, 2016.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9671,0,0,0
+Copy of style_aware_02.docx,148,"[3] R. Okafor, ""Sustainable Agriculture"", Journal of Urban Planning, 2020.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.9737,0,0,0
+Copy of style_aware_02.docx,149,"[4] Dr. A. Sharma, ""Renaissance Art"", Journal of Ancient Civilizations, 2016.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9803,0,0,0
+Copy of style_aware_02.docx,150,"[5] Dr. M. Chen, ""Renaissance Art"", Journal of Renaissance Art, 2020.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9868,0,0,0
+Copy of style_aware_02.docx,151,"[6] L. Fontaine, ""Ancient Civilizations"", Journal of Neural Networks, 2023.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.9934,0,0,0
+Copy of style_aware_03.docx,0,Renaissance Art: A Comprehensive Study,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,5,0.0,4,0,0
+Copy of style_aware_03.docx,1,Prof. J. Alvarez,Body Paragraph,13.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,3,0.0074,0,0,0
+Copy of style_aware_03.docx,2,Chapter 1: Space Exploration,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.0147,1,0,0
+Copy of style_aware_03.docx,3,1.1 Space Exploration,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.0221,2,0,0
+Copy of style_aware_03.docx,4,However additionally application function method performance result output analy,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,50,0.0294,0,0,0
+Copy of style_aware_03.docx,5,Additionally value strategy relevant however consequently research sample accura,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,61,0.0368,0,0,0
+Copy of style_aware_03.docx,6,Consequently structure theory relevant design module subsequent sample research ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,42,0.0441,0,0,0
+Copy of style_aware_03.docx,7,Model module analysis analysis function however theory performance research data,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,70,0.0515,0,0,0
+Copy of style_aware_03.docx,8,Training data input system therefore training design technique. Design structure,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,90,0.0588,0,0,0
+Copy of style_aware_03.docx,9,Figure 11: Illustration of Quantum Computing Basics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.0662,5,0,0
+Copy of style_aware_03.docx,10,1. Sample data system component theory feature.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.0735,6,0,0
+Copy of style_aware_03.docx,11,2. Interface technique strategy therefore feature additionally architecture furt,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.0809,6,0,0
+Copy of style_aware_03.docx,12,3. Structure quality standard standard sample concept process analysis standard.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.0882,6,0,0
+Copy of style_aware_03.docx,13,4. Research function important network model therefore efficiency function.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,9,0.0956,6,0,0
+Copy of style_aware_03.docx,14,5. Accuracy implementation additionally significant strategy.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.1029,6,0,0
+Copy of style_aware_03.docx,15,6. Study system principle evaluation.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.1103,6,0,0
+Copy of style_aware_03.docx,16,1.2 Marine Biology,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.1176,2,0,0
+Copy of style_aware_03.docx,17,Study study however study feature design function model principle. Standard modu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,89,0.125,0,0,0
+Copy of style_aware_03.docx,18,Theory theory principle sample application value system consequently result howe,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,64,0.1324,0,0,0
+Copy of style_aware_03.docx,19,Subsequent implementation framework result significant consequently theory quali,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,31,0.1397,0,0,0
+Copy of style_aware_03.docx,20,Efficiency application module relevant design output input evaluation study meth,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,73,0.1471,0,0,0
+Copy of style_aware_03.docx,21,Accuracy module standard model sample study evaluation model method method devel,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,70,0.1544,0,0,0
+Copy of style_aware_03.docx,22,Architecture input theory architecture technique method result analysis analysis,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,63,0.1618,0,0,0
+Copy of style_aware_03.docx,23,Figure 12: Illustration of Data Structures and Algorithms,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,8,0.1691,5,0,0
+Copy of style_aware_03.docx,24,1. Module performance implementation technique.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.1765,6,0,0
+Copy of style_aware_03.docx,25,2. Output quality system performance consequently training research framework th,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.1838,6,0,0
+Copy of style_aware_03.docx,26,3. Research research design model network feature.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.1912,6,0,0
+Copy of style_aware_03.docx,27,4. Strategy efficiency subsequent system relevant input result quality standard.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.1985,6,0,0
+Copy of style_aware_03.docx,28,1.3 Space Exploration,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.2059,2,0,0
+Copy of style_aware_03.docx,29,Approach network standard interface approach system research function significan,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,87,0.2132,0,0,0
+Copy of style_aware_03.docx,30,Implementation therefore concept architecture application interface module furth,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,84,0.2206,0,0,0
+Copy of style_aware_03.docx,31,Concept study technique framework architecture development principle architectur,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,65,0.2279,0,0,0
+Copy of style_aware_03.docx,32,Efficiency strategy design input quality accuracy standard system analysis conce,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,58,0.2353,0,0,0
+Copy of style_aware_03.docx,33,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.2426,9,0,1
+Copy of style_aware_03.docx,34,Table 13: Summary of Marine Biology metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.25,5,0,0
+Copy of style_aware_03.docx,35,Chapter 2: Sustainable Agriculture,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.2574,1,0,0
+Copy of style_aware_03.docx,36,2.1 Climate Systems,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.2647,2,0,0
+Copy of style_aware_03.docx,37,Structure input additionally analysis input training data research result releva,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,40,0.2721,0,0,0
+Copy of style_aware_03.docx,38,Evaluation approach important quality training strategy efficiency approach outp,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,38,0.2794,0,0,0
+Copy of style_aware_03.docx,39,Input function relevant data result additionally analysis sample performance. Mo,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,38,0.2868,0,0,0
+Copy of style_aware_03.docx,40,Figure 21: Illustration of Neural Networks,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,6,0.2941,5,0,0
+Copy of style_aware_03.docx,41,2.2 Ancient Civilizations,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.3015,2,0,0
+Copy of style_aware_03.docx,42,Performance framework network model module input technique efficiency training. ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,56,0.3088,0,0,0
+Copy of style_aware_03.docx,43,Data efficiency concept system research evaluation value result significant mode,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,41,0.3162,0,0,0
+Copy of style_aware_03.docx,44,Standard theory study consequently design function principle however evaluation ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,37,0.3235,0,0,0
+Copy of style_aware_03.docx,45,2.3 Cognitive Psychology,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.3309,2,0,0
+Copy of style_aware_03.docx,46,Research performance subsequent feature however input standard architecture accu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,80,0.3382,0,0,0
+Copy of style_aware_03.docx,47,System theory implementation implementation interface method architecture conseq,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,45,0.3456,0,0,0
+Copy of style_aware_03.docx,48,Therefore strategy training method consequently furthermore relevant output. App,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,70,0.3529,0,0,0
+Copy of style_aware_03.docx,49,Method module output important development interface standard interface accuracy,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,78,0.3603,0,0,0
+Copy of style_aware_03.docx,50,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.3676,9,0,1
+Copy of style_aware_03.docx,51,Table 23: Summary of Renaissance Art metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.375,5,0,0
+Copy of style_aware_03.docx,52,Chapter 3: Cognitive Psychology,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.3824,1,0,0
+Copy of style_aware_03.docx,53,3.1 Urban Planning,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.3897,2,0,0
+Copy of style_aware_03.docx,54,Efficiency application strategy subsequent module development additionally resul,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,40,0.3971,0,0,0
+Copy of style_aware_03.docx,55,Application principle design subsequent interface efficiency accuracy value appr,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,71,0.4044,0,0,0
+Copy of style_aware_03.docx,56,Additionally structure architecture network model technique model structure inpu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,44,0.4118,0,0,0
+Copy of style_aware_03.docx,57,3.2 Sustainable Agriculture,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.4191,2,0,0
+Copy of style_aware_03.docx,58,Data approach design study component system consequently efficiency significant ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,67,0.4265,0,0,0
+Copy of style_aware_03.docx,59,Quality function output study significant network therefore training development,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,73,0.4338,0,0,0
+Copy of style_aware_03.docx,60,Process sample standard network interface additionally model component accuracy ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,87,0.4412,0,0,0
+Copy of style_aware_03.docx,61,Important module accuracy however result study system quality network quality. A,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,34,0.4485,0,0,0
+Copy of style_aware_03.docx,62,3.3 Urban Planning,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.4559,2,0,0
+Copy of style_aware_03.docx,63,Efficiency framework feature performance however approach concept model method p,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,39,0.4632,0,0,0
+Copy of style_aware_03.docx,64,Component system development sample application output evaluation standard data ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,47,0.4706,0,0,0
+Copy of style_aware_03.docx,65,Training furthermore study input framework research additionally development arc,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,38,0.4779,0,0,0
+Copy of style_aware_03.docx,66,Furthermore approach function consequently therefore principle network analysis ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,66,0.4853,0,0,0
+Copy of style_aware_03.docx,67,Approach concept result quality process approach implementation input framework ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,95,0.4926,0,0,0
+Copy of style_aware_03.docx,68,Standard therefore theory concept network implementation function implementation,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,65,0.5,0,0,0
+Copy of style_aware_03.docx,69,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.5074,9,0,1
+Copy of style_aware_03.docx,70,Table 33: Summary of Climate Systems metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.5147,5,0,0
+Copy of style_aware_03.docx,71,Figure 33: Illustration of Climate Systems,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,6,0.5221,5,0,0
+Copy of style_aware_03.docx,72,1. Technique significant feature analysis.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.5294,6,0,0
+Copy of style_aware_03.docx,73,2. System module sample study additionally process process analysis interface th,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.5368,6,0,0
+Copy of style_aware_03.docx,74,3. Network additionally value technique accuracy.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.5441,6,0,0
+Copy of style_aware_03.docx,75,4. Output furthermore however approach design framework therefore process princi,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.5515,6,0,0
+Copy of style_aware_03.docx,76,3.4 Ancient Civilizations,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.5588,2,0,0
+Copy of style_aware_03.docx,77,However consequently model value performance process quality important implement,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,57,0.5662,0,0,0
+Copy of style_aware_03.docx,78,Subsequent design interface architecture principle strategy framework design pri,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,70,0.5735,0,0,0
+Copy of style_aware_03.docx,79,Consequently value concept process result principle quality however implementati,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,37,0.5809,0,0,0
+Copy of style_aware_03.docx,80,Framework analysis concept network architecture accuracy concept additionally sy,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,34,0.5882,0,0,0
+Copy of style_aware_03.docx,81,Design system result system component concept strategy component consequently th,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,68,0.5956,0,0,0
+Copy of style_aware_03.docx,82,Figure 34: Illustration of Behavioral Economics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,6,0.6029,5,0,0
+Copy of style_aware_03.docx,83,Chapter 4: Space Exploration,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.6103,1,0,0
+Copy of style_aware_03.docx,84,4.1 Data Structures and Algorithms,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.6176,2,0,0
+Copy of style_aware_03.docx,85,Study system furthermore evaluation theory component efficiency study value stud,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,81,0.625,0,0,0
+Copy of style_aware_03.docx,86,Feature important standard strategy component value component data research subs,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,53,0.6324,0,0,0
+Copy of style_aware_03.docx,87,Performance study evaluation significant consequently additionally interface app,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,65,0.6397,0,0,0
+Copy of style_aware_03.docx,88,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.6471,9,0,1
+Copy of style_aware_03.docx,89,Table 41: Summary of Data Structures and Algorithms metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,9,0.6544,5,0,0
+Copy of style_aware_03.docx,90,4.2 Climate Systems,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.6618,2,0,0
+Copy of style_aware_03.docx,91,Study module input relevant design consequently application approach design appr,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,88,0.6691,0,0,0
+Copy of style_aware_03.docx,92,Feature technique evaluation relevant model input efficiency relevant significan,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,87,0.6765,0,0,0
+Copy of style_aware_03.docx,93,Sample therefore result furthermore significant sample implementation principle.,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,67,0.6838,0,0,0
+Copy of style_aware_03.docx,94,Principle output technique consequently consequently technique system furthermor,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,79,0.6912,0,0,0
+Copy of style_aware_03.docx,95,Theory sample implementation study design theory output subsequent data function,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,56,0.6985,0,0,0
+Copy of style_aware_03.docx,96,Component theory significant architecture theory evaluation training theory. Fun,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,82,0.7059,0,0,0
+Copy of style_aware_03.docx,97,1. Sample approach principle strategy training.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.7132,6,0,0
+Copy of style_aware_03.docx,98,2. Significant efficiency relevant value.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.7206,6,0,0
+Copy of style_aware_03.docx,99,3. Relevant important consequently input quality.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.7279,6,0,0
+Copy of style_aware_03.docx,100,4. Interface feature study accuracy concept.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.7353,6,0,0
+Copy of style_aware_03.docx,101,5. Therefore value therefore standard important efficiency result.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,8,0.7426,6,0,0
+Copy of style_aware_03.docx,102,6. Concept component value furthermore feature component efficiency principle da,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.75,6,0,0
+Copy of style_aware_03.docx,103,4.3 Cognitive Psychology,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.7574,2,0,0
+Copy of style_aware_03.docx,104,Efficiency performance sample strategy additionally data therefore training effi,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,71,0.7647,0,0,0
+Copy of style_aware_03.docx,105,System design concept structure standard structure approach additionally. Resear,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,40,0.7721,0,0,0
+Copy of style_aware_03.docx,106,Application component analysis additionally implementation sample sample design ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,48,0.7794,0,0,0
+Copy of style_aware_03.docx,107,Function application strategy interface evaluation strategy research process. Su,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,60,0.7868,0,0,0
+Copy of style_aware_03.docx,108,Architecture process additionally approach however subsequent implementation val,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,95,0.7941,0,0,0
+Copy of style_aware_03.docx,109,Furthermore consequently efficiency framework concept data significant data accu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,88,0.8015,0,0,0
+Copy of style_aware_03.docx,110,Figure 43: Illustration of Marine Biology,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,6,0.8088,5,0,0
+Copy of style_aware_03.docx,111,Chapter 5: Sustainable Agriculture,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.8162,1,0,0
+Copy of style_aware_03.docx,112,5.1 Behavioral Economics,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.8235,2,0,0
+Copy of style_aware_03.docx,113,Architecture value concept evaluation efficiency technique accuracy study compon,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,79,0.8309,0,0,0
+Copy of style_aware_03.docx,114,Input analysis interface module value theory important value additionally resear,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,34,0.8382,0,0,0
+Copy of style_aware_03.docx,115,Additionally study quality furthermore method feature efficiency function theory,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,35,0.8456,0,0,0
+Copy of style_aware_03.docx,116,Feature concept architecture module development data process design. Analysis pr,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,83,0.8529,0,0,0
+Copy of style_aware_03.docx,117,Consequently subsequent function application module development accuracy impleme,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,72,0.8603,0,0,0
+Copy of style_aware_03.docx,118,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.8676,9,0,1
+Copy of style_aware_03.docx,119,Table 51: Summary of Ancient Civilizations metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.875,5,0,0
+Copy of style_aware_03.docx,120,5.2 Ancient Civilizations,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.8824,2,0,0
+Copy of style_aware_03.docx,121,However system quality data efficiency research furthermore quality data. Compon,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,44,0.8897,0,0,0
+Copy of style_aware_03.docx,122,Efficiency quality strategy function consequently result standard relevant model,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,62,0.8971,0,0,0
+Copy of style_aware_03.docx,123,Input data approach principle important result framework however accuracy interf,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,33,0.9044,0,0,0
+Copy of style_aware_03.docx,124,Relevant efficiency function efficiency technique sample performance application,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,91,0.9118,0,0,0
+Copy of style_aware_03.docx,125,Interface framework architecture however module process therefore development ne,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,36,0.9191,0,0,0
+Copy of style_aware_03.docx,126,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.9265,9,0,1
+Copy of style_aware_03.docx,127,Table 52: Summary of Sustainable Agriculture metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.9338,5,0,0
+Copy of style_aware_03.docx,128,References,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,1,0.9412,1,0,0
+Copy of style_aware_03.docx,129,"[1] Prof. J. Alvarez, ""Urban Planning"", Journal of Behavioral Economics, 2015.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9485,0,0,0
+Copy of style_aware_03.docx,130,"[2] Prof. J. Alvarez, ""Quantum Computing Basics"", Journal of Quantum Computing B",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,13,0.9559,0,0,0
+Copy of style_aware_03.docx,131,"[3] R. Okafor, ""Renaissance Art"", Journal of Cognitive Psychology, 2025.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.9632,0,0,0
+Copy of style_aware_03.docx,132,"[4] Dr. M. Chen, ""Data Structures and Algorithms"", Journal of Sustainable Agricu",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,13,0.9706,0,0,0
+Copy of style_aware_03.docx,133,"[5] Prof. J. Alvarez, ""Sustainable Agriculture"", Journal of Quantum Computing Ba",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,12,0.9779,0,0,0
+Copy of style_aware_03.docx,134,"[6] Dr. S. Novak, ""Marine Biology"", Journal of Renaissance Art, 2016.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9853,0,0,0
+Copy of style_aware_03.docx,135,"[7] Dr. M. Chen, ""Space Exploration"", Journal of Cognitive Psychology, 2019.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9926,0,0,0
+Copy of style_aware_04.docx,0,Neural Networks: A Comprehensive Study,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,5,0.0,4,0,0
+Copy of style_aware_04.docx,1,Dr. A. Sharma,Body Paragraph,13.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,3,0.0108,0,0,0
+Copy of style_aware_04.docx,2,Chapter 1: Data Structures and Algorithms,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,6,0.0215,1,0,0
+Copy of style_aware_04.docx,3,1.1 Neural Networks,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.0323,2,0,0
+Copy of style_aware_04.docx,4,Interface function additionally network function theory method function input im,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,66,0.043,0,0,0
+Copy of style_aware_04.docx,5,Theory however concept performance concept quality quality output design model a,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,84,0.0538,0,0,0
+Copy of style_aware_04.docx,6,Analysis structure performance important output sample accuracy data important c,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,84,0.0645,0,0,0
+Copy of style_aware_04.docx,7,Strategy quality approach however theory principle component evaluation implemen,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,68,0.0753,0,0,0
+Copy of style_aware_04.docx,8,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.086,9,0,1
+Copy of style_aware_04.docx,9,Table 11: Summary of Neural Networks metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.0968,5,0,0
+Copy of style_aware_04.docx,10,1.2 Space Exploration,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.1075,2,0,0
+Copy of style_aware_04.docx,11,Study accuracy network result however input important application. Method featur,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,32,0.1183,0,0,0
+Copy of style_aware_04.docx,12,Accuracy structure implementation accuracy principle accuracy performance functi,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,61,0.129,0,0,0
+Copy of style_aware_04.docx,13,Result module input theory result structure consequently input research developm,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,88,0.1398,0,0,0
+Copy of style_aware_04.docx,14,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.1505,9,0,1
+Copy of style_aware_04.docx,15,Table 12: Summary of Urban Planning metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.1613,5,0,0
+Copy of style_aware_04.docx,16,1. Additionally technique implementation input implementation.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.172,6,0,0
+Copy of style_aware_04.docx,17,2. Subsequent development approach performance.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.1828,6,0,0
+Copy of style_aware_04.docx,18,3. Technique data theory feature application research consequently furthermore t,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.1935,6,0,0
+Copy of style_aware_04.docx,19,4. Research result input output research system component.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,8,0.2043,6,0,0
+Copy of style_aware_04.docx,20,5. Significant significant design structure analysis training.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.2151,6,0,0
+Copy of style_aware_04.docx,21,Chapter 2: Cognitive Psychology,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.2258,1,0,0
+Copy of style_aware_04.docx,22,2.1 Sustainable Agriculture,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.2366,2,0,0
+Copy of style_aware_04.docx,23,Strategy system sample sample model theory principle significant study additiona,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,101,0.2473,0,0,0
+Copy of style_aware_04.docx,24,Concept quality study model process structure component technique performance fu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,71,0.2581,0,0,0
+Copy of style_aware_04.docx,25,Consequently development efficiency component network framework implementation t,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,58,0.2688,0,0,0
+Copy of style_aware_04.docx,26,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.2796,9,0,1
+Copy of style_aware_04.docx,27,Table 21: Summary of Sustainable Agriculture metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.2903,5,0,0
+Copy of style_aware_04.docx,28,2.2 Marine Biology,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.3011,2,0,0
+Copy of style_aware_04.docx,29,Application accuracy additionally consequently relevant evaluation feature appli,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,57,0.3118,0,0,0
+Copy of style_aware_04.docx,30,Training framework consequently principle module network standard evaluation out,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,110,0.3226,0,0,0
+Copy of style_aware_04.docx,31,Efficiency quality subsequent significant theory output input system therefore a,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,92,0.3333,0,0,0
+Copy of style_aware_04.docx,32,Study principle system design result approach efficiency development subsequent ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,58,0.3441,0,0,0
+Copy of style_aware_04.docx,33,Principle application analysis significant system output technique interface per,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,52,0.3548,0,0,0
+Copy of style_aware_04.docx,34,1. However additionally principle consequently however framework function theory,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.3656,6,0,0
+Copy of style_aware_04.docx,35,2. Process data result analysis architecture analysis accuracy evaluation struct,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.3763,6,0,0
+Copy of style_aware_04.docx,36,3. Significant therefore furthermore strategy.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.3871,6,0,0
+Copy of style_aware_04.docx,37,4. Architecture accuracy standard method technique analysis input concept strate,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.3978,6,0,0
+Copy of style_aware_04.docx,38,5. Concept consequently important input subsequent accuracy structure architectu,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,9,0.4086,6,0,0
+Copy of style_aware_04.docx,39,Chapter 3: Urban Planning,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.4194,1,0,0
+Copy of style_aware_04.docx,40,3.1 Climate Systems,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.4301,2,0,0
+Copy of style_aware_04.docx,41,Model design structure study relevant feature sample framework application princ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,48,0.4409,0,0,0
+Copy of style_aware_04.docx,42,Implementation implementation furthermore relevant method result accuracy framew,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,44,0.4516,0,0,0
+Copy of style_aware_04.docx,43,Application consequently structure furthermore application performance system st,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,31,0.4624,0,0,0
+Copy of style_aware_04.docx,44,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.4731,9,0,1
+Copy of style_aware_04.docx,45,Table 31: Summary of Sustainable Agriculture metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.4839,5,0,0
+Copy of style_aware_04.docx,46,1. Technique principle furthermore framework strategy important efficiency resul,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.4946,6,0,0
+Copy of style_aware_04.docx,47,2. Feature component theory function.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.5054,6,0,0
+Copy of style_aware_04.docx,48,3. Accuracy important approach value design output.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.5161,6,0,0
+Copy of style_aware_04.docx,49,4. Structure development training principle method study analysis evaluation con,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.5269,6,0,0
+Copy of style_aware_04.docx,50,5. Method result however subsequent design quality research function additionall,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.5376,6,0,0
+Copy of style_aware_04.docx,51,6. Component relevant relevant therefore research result data.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,8,0.5484,6,0,0
+Copy of style_aware_04.docx,52,3.2 Data Structures and Algorithms,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.5591,2,0,0
+Copy of style_aware_04.docx,53,Significant concept design important value approach additionally efficiency ther,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,71,0.5699,0,0,0
+Copy of style_aware_04.docx,54,Theory approach technique development process input architecture therefore accur,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,42,0.5806,0,0,0
+Copy of style_aware_04.docx,55,Interface value component study performance evaluation process implementation fe,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,39,0.5914,0,0,0
+Copy of style_aware_04.docx,56,Furthermore value model subsequent system evaluation function method relevant th,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,75,0.6022,0,0,0
+Copy of style_aware_04.docx,57,Development data interface structure value implementation quality design study m,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,58,0.6129,0,0,0
+Copy of style_aware_04.docx,58,Sample principle strategy module structure research training strategy result int,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,38,0.6237,0,0,0
+Copy of style_aware_04.docx,59,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.6344,9,0,1
+Copy of style_aware_04.docx,60,Table 32: Summary of Quantum Computing Basics metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,8,0.6452,5,0,0
+Copy of style_aware_04.docx,61,1. Result study process design feature approach however training.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,9,0.6559,6,0,0
+Copy of style_aware_04.docx,62,2. Function input significant component.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.6667,6,0,0
+Copy of style_aware_04.docx,63,3. Accuracy data efficiency research network development.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.6774,6,0,0
+Copy of style_aware_04.docx,64,4. Subsequent approach furthermore theory function framework.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.6882,6,0,0
+Copy of style_aware_04.docx,65,3.3 Neural Networks,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.6989,2,0,0
+Copy of style_aware_04.docx,66,Network performance feature quality network development component research signi,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,39,0.7097,0,0,0
+Copy of style_aware_04.docx,67,Application value feature quality data feature performance value strategy evalua,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,101,0.7204,0,0,0
+Copy of style_aware_04.docx,68,System accuracy system input standard feature model concept relevant technique t,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,39,0.7312,0,0,0
+Copy of style_aware_04.docx,69,Structure training function performance feature theory theory interface techniqu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,45,0.7419,0,0,0
+Copy of style_aware_04.docx,70,Evaluation accuracy development standard method quality result design design mod,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,69,0.7527,0,0,0
+Copy of style_aware_04.docx,71,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.7634,9,0,1
+Copy of style_aware_04.docx,72,Table 33: Summary of Urban Planning metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.7742,5,0,0
+Copy of style_aware_04.docx,73,Chapter 4: Renaissance Art,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.7849,1,0,0
+Copy of style_aware_04.docx,74,4.1 Renaissance Art,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.7957,2,0,0
+Copy of style_aware_04.docx,75,Technique analysis significant structure value result network quality furthermor,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,74,0.8065,0,0,0
+Copy of style_aware_04.docx,76,Significant standard therefore value therefore network output input architecture,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,90,0.8172,0,0,0
+Copy of style_aware_04.docx,77,Feature analysis study system performance relevant sample important input data f,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,67,0.828,0,0,0
+Copy of style_aware_04.docx,78,Analysis development value design function method output result interface additi,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,89,0.8387,0,0,0
+Copy of style_aware_04.docx,79,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.8495,9,0,1
+Copy of style_aware_04.docx,80,Table 41: Summary of Sustainable Agriculture metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.8602,5,0,0
+Copy of style_aware_04.docx,81,4.2 Neural Networks,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.871,2,0,0
+Copy of style_aware_04.docx,82,Approach approach training implementation research theory quality subsequent val,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,32,0.8817,0,0,0
+Copy of style_aware_04.docx,83,Module function efficiency theory sample theory process application architecture,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,77,0.8925,0,0,0
+Copy of style_aware_04.docx,84,Approach training principle however however technique architecture principle con,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,87,0.9032,0,0,0
+Copy of style_aware_04.docx,85,References,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,1,0.914,1,0,0
+Copy of style_aware_04.docx,86,"[1] Dr. M. Chen, ""Sustainable Agriculture"", Journal of Behavioral Economics, 202",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9247,0,0,0
+Copy of style_aware_04.docx,87,"[2] Dr. S. Novak, ""Climate Systems"", Journal of Renaissance Art, 2015.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9355,0,0,0
+Copy of style_aware_04.docx,88,"[3] Dr. M. Chen, ""Data Structures and Algorithms"", Journal of Cognitive Psycholo",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,13,0.9462,0,0,0
+Copy of style_aware_04.docx,89,"[4] R. Okafor, ""Cognitive Psychology"", Journal of Quantum Computing Basics, 2018",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.957,0,0,0
+Copy of style_aware_04.docx,90,"[5] R. Okafor, ""Neural Networks"", Journal of Behavioral Economics, 2024.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.9677,0,0,0
+Copy of style_aware_04.docx,91,"[6] Dr. M. Chen, ""Neural Networks"", Journal of Data Structures and Algorithms, 2",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,13,0.9785,0,0,0
+Copy of style_aware_04.docx,92,"[7] Dr. M. Chen, ""Space Exploration"", Journal of Cognitive Psychology, 2019.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9892,0,0,0
+Copy of style_aware_05.docx,0,Data Structures and Algorithms: A Comprehensive Study,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,7,0.0,4,0,0
+Copy of style_aware_05.docx,1,R. Okafor,Body Paragraph,13.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,2,0.0118,0,0,0
+Copy of style_aware_05.docx,2,Chapter 1: Marine Biology,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.0235,1,0,0
+Copy of style_aware_05.docx,3,1.1 Data Structures and Algorithms,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.0353,2,0,0
+Copy of style_aware_05.docx,4,Principle standard however important concept input input function strategy subse,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,100,0.0471,0,0,0
+Copy of style_aware_05.docx,5,Development research technique approach strategy strategy design however evaluat,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,50,0.0588,0,0,0
+Copy of style_aware_05.docx,6,Research sample strategy significant analysis data feature analysis approach com,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,87,0.0706,0,0,0
+Copy of style_aware_05.docx,7,Component method process subsequent relevant important significant theory framew,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,106,0.0824,0,0,0
+Copy of style_aware_05.docx,8,Technique evaluation framework relevant data development strategy development te,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,94,0.0941,0,0,0
+Copy of style_aware_05.docx,9,Performance subsequent training consequently analysis model feature process rese,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,80,0.1059,0,0,0
+Copy of style_aware_05.docx,10,Figure 11: Illustration of Climate Systems,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,6,0.1176,5,0,0
+Copy of style_aware_05.docx,11,1. Consequently sample consequently design study.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.1294,6,0,0
+Copy of style_aware_05.docx,12,2. Additionally process interface however research approach technique result.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,9,0.1412,6,0,0
+Copy of style_aware_05.docx,13,3. Important result input module feature.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.1529,6,0,0
+Copy of style_aware_05.docx,14,1.2 Renaissance Art,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.1647,2,0,0
+Copy of style_aware_05.docx,15,Module relevant study module quality method interface theory development perform,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,58,0.1765,0,0,0
+Copy of style_aware_05.docx,16,Accuracy data performance efficiency however efficiency data application efficie,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,50,0.1882,0,0,0
+Copy of style_aware_05.docx,17,Method application value consequently component network however application desi,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,75,0.2,0,0,0
+Copy of style_aware_05.docx,18,Input study however evaluation furthermore technique implementation training des,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,41,0.2118,0,0,0
+Copy of style_aware_05.docx,19,Efficiency technique output research design however implementation principle imp,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,48,0.2235,0,0,0
+Copy of style_aware_05.docx,20,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.2353,9,0,1
+Copy of style_aware_05.docx,21,Table 12: Summary of Renaissance Art metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.2471,5,0,0
+Copy of style_aware_05.docx,22,1.3 Marine Biology,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.2588,2,0,0
+Copy of style_aware_05.docx,23,Result module principle application relevant training data significant result fu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,69,0.2706,0,0,0
+Copy of style_aware_05.docx,24,Training analysis sample accuracy application quality principle interface proces,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,100,0.2824,0,0,0
+Copy of style_aware_05.docx,25,Value however module accuracy development design subsequent model interface cons,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,35,0.2941,0,0,0
+Copy of style_aware_05.docx,26,Design however system consequently data framework function architecture method s,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,71,0.3059,0,0,0
+Copy of style_aware_05.docx,27,Application process development subsequent framework principle input theory rele,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,62,0.3176,0,0,0
+Copy of style_aware_05.docx,28,Framework architecture application component implementation therefore data model,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,53,0.3294,0,0,0
+Copy of style_aware_05.docx,29,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.3412,9,0,1
+Copy of style_aware_05.docx,30,Table 13: Summary of Space Exploration metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.3529,5,0,0
+Copy of style_aware_05.docx,31,1. Architecture therefore therefore relevant system significant.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.3647,6,0,0
+Copy of style_aware_05.docx,32,2. Component value concept model performance standard significant module.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,9,0.3765,6,0,0
+Copy of style_aware_05.docx,33,3. Strategy system standard implementation value however concept value significa,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.3882,6,0,0
+Copy of style_aware_05.docx,34,4. Data design efficiency analysis process quality.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.4,6,0,0
+Copy of style_aware_05.docx,35,5. Structure network design value structure principle.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.4118,6,0,0
+Copy of style_aware_05.docx,36,Chapter 2: Data Structures and Algorithms,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,6,0.4235,1,0,0
+Copy of style_aware_05.docx,37,2.1 Renaissance Art,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.4353,2,0,0
+Copy of style_aware_05.docx,38,Network function model value analysis method research model subsequent training ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,50,0.4471,0,0,0
+Copy of style_aware_05.docx,39,Performance quality however concept important data important design system perfo,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,62,0.4588,0,0,0
+Copy of style_aware_05.docx,40,Sample method additionally interface method strategy output strategy structure i,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,82,0.4706,0,0,0
+Copy of style_aware_05.docx,41,Concept architecture furthermore approach significant furthermore therefore modu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,69,0.4824,0,0,0
+Copy of style_aware_05.docx,42,1. Consequently strategy concept consequently component furthermore function.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,8,0.4941,6,0,0
+Copy of style_aware_05.docx,43,2. Implementation theory component additionally network structure however value ,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.5059,6,0,0
+Copy of style_aware_05.docx,44,3. Quality process framework model standard development strategy module research,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.5176,6,0,0
+Copy of style_aware_05.docx,45,2.2 Marine Biology,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.5294,2,0,0
+Copy of style_aware_05.docx,46,Result standard input function additionally value component sample. Efficiency f,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,79,0.5412,0,0,0
+Copy of style_aware_05.docx,47,Principle furthermore value development network performance principle feature co,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,79,0.5529,0,0,0
+Copy of style_aware_05.docx,48,Evaluation implementation input development model sample design efficiency accur,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,75,0.5647,0,0,0
+Copy of style_aware_05.docx,49,2.3 Quantum Computing Basics,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,4,0.5765,2,0,0
+Copy of style_aware_05.docx,50,Application system component study furthermore framework study application stand,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,35,0.5882,0,0,0
+Copy of style_aware_05.docx,51,Subsequent important framework significant framework quality implementation rese,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,78,0.6,0,0,0
+Copy of style_aware_05.docx,52,However implementation feature concept function sample architecture function sam,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,55,0.6118,0,0,0
+Copy of style_aware_05.docx,53,Chapter 3: Climate Systems,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.6235,1,0,0
+Copy of style_aware_05.docx,54,3.1 Renaissance Art,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.6353,2,0,0
+Copy of style_aware_05.docx,55,Process data furthermore feature additionally implementation value method. Impor,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,46,0.6471,0,0,0
+Copy of style_aware_05.docx,56,Performance theory data concept therefore performance concept however theory imp,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,35,0.6588,0,0,0
+Copy of style_aware_05.docx,57,Strategy performance strategy quality output output concept consequently feature,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,40,0.6706,0,0,0
+Copy of style_aware_05.docx,58,Standard principle value method strategy input principle component quality study,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,58,0.6824,0,0,0
+Copy of style_aware_05.docx,59,1. Framework module accuracy structure.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.6941,6,0,0
+Copy of style_aware_05.docx,60,2. Input research output component.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.7059,6,0,0
+Copy of style_aware_05.docx,61,3. Performance system feature significant input additionally performance.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,8,0.7176,6,0,0
+Copy of style_aware_05.docx,62,3.2 Marine Biology,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.7294,2,0,0
+Copy of style_aware_05.docx,63,Value standard result design design component architecture approach output appro,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,70,0.7412,0,0,0
+Copy of style_aware_05.docx,64,Quality process development output application value result strategy therefore s,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,90,0.7529,0,0,0
+Copy of style_aware_05.docx,65,Sample concept concept approach relevant method framework result evaluation valu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,64,0.7647,0,0,0
+Copy of style_aware_05.docx,66,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.7765,9,0,1
+Copy of style_aware_05.docx,67,Table 32: Summary of Behavioral Economics metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.7882,5,0,0
+Copy of style_aware_05.docx,68,3.3 Quantum Computing Basics,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,4,0.8,2,0,0
+Copy of style_aware_05.docx,69,Method feature research evaluation training process furthermore strategy. Compon,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,45,0.8118,0,0,0
+Copy of style_aware_05.docx,70,Principle result important performance structure furthermore system input archit,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,35,0.8235,0,0,0
+Copy of style_aware_05.docx,71,Evaluation output sample important framework development result application addi,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,79,0.8353,0,0,0
+Copy of style_aware_05.docx,72,Function input relevant quality module value approach development principle modu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,56,0.8471,0,0,0
+Copy of style_aware_05.docx,73,3.4 Quantum Computing Basics,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,4,0.8588,2,0,0
+Copy of style_aware_05.docx,74,Method technique however structure theory performance function training. Consequ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,70,0.8706,0,0,0
+Copy of style_aware_05.docx,75,System efficiency input function relevant training approach development module d,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,83,0.8824,0,0,0
+Copy of style_aware_05.docx,76,Relevant data furthermore sample framework subsequent research implementation. N,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,35,0.8941,0,0,0
+Copy of style_aware_05.docx,77,Model concept evaluation approach module system structure significant architectu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,81,0.9059,0,0,0
+Copy of style_aware_05.docx,78,References,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,1,0.9176,1,0,0
+Copy of style_aware_05.docx,79,"[1] R. Okafor, ""Sustainable Agriculture"", Journal of Renaissance Art, 2016.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.9294,0,0,0
+Copy of style_aware_05.docx,80,"[2] R. Okafor, ""Renaissance Art"", Journal of Data Structures and Algorithms, 202",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,12,0.9412,0,0,0
+Copy of style_aware_05.docx,81,"[3] Dr. A. Sharma, ""Behavioral Economics"", Journal of Ancient Civilizations, 201",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9529,0,0,0
+Copy of style_aware_05.docx,82,"[4] L. Fontaine, ""Space Exploration"", Journal of Behavioral Economics, 2023.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.9647,0,0,0
+Copy of style_aware_05.docx,83,"[5] Prof. J. Alvarez, ""Ancient Civilizations"", Journal of Climate Systems, 2016.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9765,0,0,0
+Copy of style_aware_05.docx,84,"[6] Dr. S. Novak, ""Behavioral Economics"", Journal of Neural Networks, 2017.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9882,0,0,0
+Copy of style_aware_06.docx,0,Marine Biology: A Comprehensive Study,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,5,0.0,4,0,0
+Copy of style_aware_06.docx,1,Dr. A. Sharma,Body Paragraph,13.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,3,0.0088,0,0,0
+Copy of style_aware_06.docx,2,Chapter 1: Data Structures and Algorithms,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,6,0.0177,1,0,0
+Copy of style_aware_06.docx,3,1.1 Quantum Computing Basics,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,4,0.0265,2,0,0
+Copy of style_aware_06.docx,4,Study feature architecture component accuracy component concept interface evalua,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,83,0.0354,0,0,0
+Copy of style_aware_06.docx,5,Module development system network efficiency relevant approach therefore sample ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,68,0.0442,0,0,0
+Copy of style_aware_06.docx,6,Component function furthermore system process approach process training importan,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,56,0.0531,0,0,0
+Copy of style_aware_06.docx,7,Interface input output method structure method interface analysis design impleme,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,79,0.0619,0,0,0
+Copy of style_aware_06.docx,8,Evaluation additionally training function quality performance research output sa,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,67,0.0708,0,0,0
+Copy of style_aware_06.docx,9,Therefore strategy output method training additionally output function data deve,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,79,0.0796,0,0,0
+Copy of style_aware_06.docx,10,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.0885,9,0,1
+Copy of style_aware_06.docx,11,Table 11: Summary of Space Exploration metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.0973,5,0,0
+Copy of style_aware_06.docx,12,Figure 11: Illustration of Ancient Civilizations,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,6,0.1062,5,0,0
+Copy of style_aware_06.docx,13,1.2 Marine Biology,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.115,2,0,0
+Copy of style_aware_06.docx,14,Module therefore architecture research value architecture framework training met,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,84,0.1239,0,0,0
+Copy of style_aware_06.docx,15,However accuracy consequently implementation method development model architectu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,49,0.1327,0,0,0
+Copy of style_aware_06.docx,16,Design efficiency function sample concept interface data feature training design,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,69,0.1416,0,0,0
+Copy of style_aware_06.docx,17,Function technique quality efficiency accuracy output framework additionally des,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,51,0.1504,0,0,0
+Copy of style_aware_06.docx,18,Research module function furthermore furthermore function network network theory,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,66,0.1593,0,0,0
+Copy of style_aware_06.docx,19,Chapter 2: Quantum Computing Basics,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,5,0.1681,1,0,0
+Copy of style_aware_06.docx,20,2.1 Climate Systems,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.177,2,0,0
+Copy of style_aware_06.docx,21,Performance strategy performance concept method output performance function cons,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,73,0.1858,0,0,0
+Copy of style_aware_06.docx,22,Performance research additionally result consequently function function importan,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,73,0.1947,0,0,0
+Copy of style_aware_06.docx,23,Module quality interface study feature subsequent study network development addi,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,100,0.2035,0,0,0
+Copy of style_aware_06.docx,24,Relevant theory accuracy therefore data function function training consequently ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,55,0.2124,0,0,0
+Copy of style_aware_06.docx,25,Framework value feature network accuracy function development consequently. Perf,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,43,0.2212,0,0,0
+Copy of style_aware_06.docx,26,Model input subsequent process training theory theory however input input perfor,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,90,0.2301,0,0,0
+Copy of style_aware_06.docx,27,Figure 21: Illustration of Neural Networks,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,6,0.2389,5,0,0
+Copy of style_aware_06.docx,28,2.2 Space Exploration,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.2478,2,0,0
+Copy of style_aware_06.docx,29,Training module design analysis furthermore training design application. Data st,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,96,0.2566,0,0,0
+Copy of style_aware_06.docx,30,Study study function performance function standard result interface approach int,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,83,0.2655,0,0,0
+Copy of style_aware_06.docx,31,Module principle function value relevant function principle design method data c,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,54,0.2743,0,0,0
+Copy of style_aware_06.docx,32,Significant principle standard technique component function model method archite,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,88,0.2832,0,0,0
+Copy of style_aware_06.docx,33,Accuracy input concept design additionally efficiency value method structure how,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,54,0.292,0,0,0
+Copy of style_aware_06.docx,34,Theory theory efficiency system efficiency subsequent value network principle th,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,90,0.3009,0,0,0
+Copy of style_aware_06.docx,35,Chapter 3: Sustainable Agriculture,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.3097,1,0,0
+Copy of style_aware_06.docx,36,3.1 Climate Systems,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.3186,2,0,0
+Copy of style_aware_06.docx,37,Application feature application furthermore therefore important accuracy framewo,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,72,0.3274,0,0,0
+Copy of style_aware_06.docx,38,Data network development accuracy technique theory however structure training fr,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,93,0.3363,0,0,0
+Copy of style_aware_06.docx,39,Model output component accuracy important process function component interface d,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,84,0.3451,0,0,0
+Copy of style_aware_06.docx,40,3.2 Ancient Civilizations,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.354,2,0,0
+Copy of style_aware_06.docx,41,Significant module standard application efficiency furthermore output design the,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,45,0.3628,0,0,0
+Copy of style_aware_06.docx,42,Efficiency additionally significant design principle subsequent additionally mod,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,57,0.3717,0,0,0
+Copy of style_aware_06.docx,43,Value model important subsequent implementation function structure framework acc,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,34,0.3805,0,0,0
+Copy of style_aware_06.docx,44,System efficiency sample technique value function important data network process,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,41,0.3894,0,0,0
+Copy of style_aware_06.docx,45,Figure 32: Illustration of Climate Systems,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,6,0.3982,5,0,0
+Copy of style_aware_06.docx,46,3.3 Ancient Civilizations,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.4071,2,0,0
+Copy of style_aware_06.docx,47,Architecture efficiency concept subsequent sample interface theory component des,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,79,0.4159,0,0,0
+Copy of style_aware_06.docx,48,Design architecture however subsequent process value sample implementation resul,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,69,0.4248,0,0,0
+Copy of style_aware_06.docx,49,System output subsequent design module structure concept design theory. Theory e,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,77,0.4336,0,0,0
+Copy of style_aware_06.docx,50,Chapter 4: Renaissance Art,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.4425,1,0,0
+Copy of style_aware_06.docx,51,4.1 Space Exploration,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.4513,2,0,0
+Copy of style_aware_06.docx,52,Implementation method network relevant architecture data quality function proces,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,58,0.4602,0,0,0
+Copy of style_aware_06.docx,53,Important study application function value development additionally method model,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,94,0.469,0,0,0
+Copy of style_aware_06.docx,54,Sample therefore principle however principle quality furthermore subsequent resu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,100,0.4779,0,0,0
+Copy of style_aware_06.docx,55,Theory framework system feature consequently research model furthermore importan,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,77,0.4867,0,0,0
+Copy of style_aware_06.docx,56,Principle result sample interface value input important interface method researc,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,76,0.4956,0,0,0
+Copy of style_aware_06.docx,57,1. Significant structure data relevant implementation however.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.5044,6,0,0
+Copy of style_aware_06.docx,58,2. Concept principle application additionally efficiency furthermore.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.5133,6,0,0
+Copy of style_aware_06.docx,59,3. Design quality therefore concept function.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.5221,6,0,0
+Copy of style_aware_06.docx,60,4. Result study relevant implementation relevant.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.531,6,0,0
+Copy of style_aware_06.docx,61,5. Standard efficiency interface design concept output process.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,8,0.5398,6,0,0
+Copy of style_aware_06.docx,62,4.2 Sustainable Agriculture,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.5487,2,0,0
+Copy of style_aware_06.docx,63,Research network evaluation principle study data component model value standard ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,44,0.5575,0,0,0
+Copy of style_aware_06.docx,64,Furthermore network efficiency theory therefore performance principle structure ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,83,0.5664,0,0,0
+Copy of style_aware_06.docx,65,Feature process efficiency interface implementation implementation structure pro,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,81,0.5752,0,0,0
+Copy of style_aware_06.docx,66,1. Efficiency interface significant technique however theory process relevant.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,9,0.5841,6,0,0
+Copy of style_aware_06.docx,67,2. Additionally research performance consequently significant.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,6,0.5929,6,0,0
+Copy of style_aware_06.docx,68,3. Interface relevant result furthermore technique input input sample network.,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.6018,6,0,0
+Copy of style_aware_06.docx,69,4.3 Data Structures and Algorithms,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,5,0.6106,2,0,0
+Copy of style_aware_06.docx,70,Structure method accuracy consequently network development model training. Study,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,37,0.6195,0,0,0
+Copy of style_aware_06.docx,71,Development consequently relevant module research model subsequent quality train,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,40,0.6283,0,0,0
+Copy of style_aware_06.docx,72,Result principle study model analysis approach model therefore theory study impo,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,91,0.6372,0,0,0
+Copy of style_aware_06.docx,73,Value input additionally sample value furthermore additionally process evaluatio,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,81,0.646,0,0,0
+Copy of style_aware_06.docx,74,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.6549,9,0,1
+Copy of style_aware_06.docx,75,Table 43: Summary of Data Structures and Algorithms metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,9,0.6637,5,0,0
+Copy of style_aware_06.docx,76,Chapter 5: Urban Planning,Chapter Heading,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,4,0.6726,1,0,0
+Copy of style_aware_06.docx,77,5.1 Ancient Civilizations,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.6814,2,0,0
+Copy of style_aware_06.docx,78,Output data output significant accuracy system concept standard approach sample ,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,68,0.6903,0,0,0
+Copy of style_aware_06.docx,79,Application structure module evaluation module implementation subsequent functio,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,79,0.6991,0,0,0
+Copy of style_aware_06.docx,80,Application evaluation framework efficiency training subsequent significant stan,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,90,0.708,0,0,0
+Copy of style_aware_06.docx,81,Application training analysis interface therefore subsequent additionally module,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,58,0.7168,0,0,0
+Copy of style_aware_06.docx,82,Subsequent architecture important analysis method study research sample model mo,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,50,0.7257,0,0,0
+Copy of style_aware_06.docx,83,Figure 51: Illustration of Cognitive Psychology,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,6,0.7345,5,0,0
+Copy of style_aware_06.docx,84,1. Development therefore application significant result interface concept develo,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,9,0.7434,6,0,0
+Copy of style_aware_06.docx,85,2. Data framework feature design subsequent function.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.7522,6,0,0
+Copy of style_aware_06.docx,86,3. Method technique interface data relevant strategy.,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,7,0.7611,6,0,0
+Copy of style_aware_06.docx,87,4. Study performance framework significant additionally component data design va,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.7699,6,0,0
+Copy of style_aware_06.docx,88,5.2 Renaissance Art,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.7788,2,0,0
+Copy of style_aware_06.docx,89,Structure important structure application furthermore accuracy sample value accu,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,47,0.7876,0,0,0
+Copy of style_aware_06.docx,90,Process module value process quality output training efficiency technique struct,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,40,0.7965,0,0,0
+Copy of style_aware_06.docx,91,Quality module furthermore efficiency study furthermore design component relevan,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,35,0.8053,0,0,0
+Copy of style_aware_06.docx,92,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.8142,9,0,1
+Copy of style_aware_06.docx,93,Table 52: Summary of Data Structures and Algorithms metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,9,0.823,5,0,0
+Copy of style_aware_06.docx,94,Figure 52: Illustration of Marine Biology,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,6,0.8319,5,0,0
+Copy of style_aware_06.docx,95,5.3 Urban Planning,List,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,3,0.8407,2,0,0
+Copy of style_aware_06.docx,96,Concept theory relevant implementation feature strategy framework output input p,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,49,0.8496,0,0,0
+Copy of style_aware_06.docx,97,Performance approach consequently architecture theory consequently component con,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,73,0.8584,0,0,0
+Copy of style_aware_06.docx,98,Output process significant principle principle component principle training sign,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,60,0.8673,0,0,0
+Copy of style_aware_06.docx,99,Important feature efficiency feature feature accuracy however input theory conce,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,41,0.8761,0,0,0
+Copy of style_aware_06.docx,100,Data function however process interface model data concept model. Function effic,Body Paragraph,12.0,0,0,3,0.0,0.0,0.0,0.0,1.0,0,0,93,0.885,0,0,0
+Copy of style_aware_06.docx,101,R0C0 | R0C1 | R0C2 | R1C0 | R1C1 | R1C2,Table,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,9,0.8938,9,0,1
+Copy of style_aware_06.docx,102,Table 53: Summary of Ancient Civilizations metrics,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,7,0.9027,5,0,0
+Copy of style_aware_06.docx,103,Figure 53: Illustration of Sustainable Agriculture,Caption,10.0,0,1,1,0.0,0.0,0.0,0.0,1.0,0,0,6,0.9115,5,0,0
+Copy of style_aware_06.docx,104,References,Body Paragraph,11.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,1,0.9204,1,0,0
+Copy of style_aware_06.docx,105,"[1] R. Okafor, ""Space Exploration"", Journal of Marine Biology, 2023.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.9292,0,0,0
+Copy of style_aware_06.docx,106,"[2] Dr. A. Sharma, ""Behavioral Economics"", Journal of Cognitive Psychology, 2015",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9381,0,0,0
+Copy of style_aware_06.docx,107,"[3] Dr. A. Sharma, ""Urban Planning"", Journal of Ancient Civilizations, 2020.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9469,0,0,0
+Copy of style_aware_06.docx,108,"[4] Dr. A. Sharma, ""Cognitive Psychology"", Journal of Sustainable Agriculture, 2",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9558,0,0,0
+Copy of style_aware_06.docx,109,"[5] Prof. J. Alvarez, ""Behavioral Economics"", Journal of Ancient Civilizations, ",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9646,0,0,0
+Copy of style_aware_06.docx,110,"[6] Prof. J. Alvarez, ""Urban Planning"", Journal of Sustainable Agriculture, 2025",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9735,0,0,0
+Copy of style_aware_06.docx,111,"[7] L. Fontaine, ""Ancient Civilizations"", Journal of Marine Biology, 2021.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,10,0.9823,0,0,0
+Copy of style_aware_06.docx,112,"[8] Prof. J. Alvarez, ""Renaissance Art"", Journal of Neural Networks, 2022.",Reference,10.0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,1,11,0.9912,0,0,0
 chapter_01_ml_pipelines.docx,0,Chapter 5,Chapter Heading,14.0,1,0,1,0.0,0.0,0.0,2.0,1.0,0,0,2,0.0,0,0,0
 chapter_01_ml_pipelines.docx,1,Designing Robust Machine Learning Pipelines,Chapter Heading,20.0,1,0,1,0.0,0.0,0.0,24.0,1.0,0,0,5,0.0435,0,0,0
 chapter_01_ml_pipelines.docx,2,Why Pipelines Break,Subheading,13.0,1,0,0,0.0,0.0,14.0,6.0,1.0,0,0,3,0.087,0,0,0
