@@ -20,6 +20,16 @@ Thumbs.db
 .vscode/
 .idea/
 
+# --- PyInstaller build output (regenerate with build_exe.py, don't commit) ---
+build/
+dist/
+*.spec
+
+# --- Generated certificates (each machine generates its own on first run) ---
+*.crt
+*.key
+certs/
+
 # --- Pipeline-generated output (regenerate anytime, don't commit) ---
 samples/formatted/
 samples/*_formatted.docx
@@ -27,6 +37,7 @@ samples/*_formatted_formatted.docx
 samples/scale_test_manuscript.docx
 samples/scale_test_formatted.docx
 samples/*_comparison.md
+samples/*_comparison.html
 
 # --- Local scratch ---
 *.tmp

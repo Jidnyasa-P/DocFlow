@@ -26,8 +26,14 @@ import tempfile
 import time
 
 from flask import Flask, jsonify, request, send_from_directory
+from flask_cors import CORS
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if getattr(sys, "frozen", False):
+    # Running as a PyInstaller-built executable: bundled data files live
+    # under sys._MEIPASS (a temp extraction dir), not next to this script.
+    REPO_ROOT = sys._MEIPASS
+
 ADDIN_DIR = os.path.join(REPO_ROOT, "addin")
 ENGINE_DIR = os.path.join(REPO_ROOT, "engine")
 
@@ -41,16 +47,7 @@ from engine.formatting_engine import format_document # noqa: E402
 from engine.validation import validate_output         # noqa: E402
 
 app = Flask(__name__, static_folder=None)
-
-# --- CORS: only needed if you ever serve the task pane from a different
-# origin than this API. Same-origin (recommended) needs none of this, but
-# it's harmless to leave on for local debugging with e.g. live-reload tools.
-@app.after_request
-def add_cors_headers(resp):
-    resp.headers["Access-Control-Allow-Origin"] = "https://localhost:3000"
-    resp.headers["Access-Control-Allow-Headers"] = "Content-Type"
-    resp.headers["Access-Control-Allow-Methods"] = "GET, POST, OPTIONS"
-    return resp
+CORS(app)
 
 
 # ---------------------------------------------------------------------
@@ -96,11 +93,8 @@ def asset_files(filename):
 # ---------------------------------------------------------------------
 # API: run the actual formatting pipeline
 # ---------------------------------------------------------------------
-@app.route("/api/format", methods=["POST", "OPTIONS"])
+@app.route("/api/format", methods=["POST"])
 def api_format():
-    if request.method == "OPTIONS":
-        return "", 204
-
     payload = request.get_json(force=True)
     docx_b64 = payload.get("docx_base64")
     if not docx_b64:
@@ -177,11 +171,8 @@ def _render_first_page_png(docx_bytes, workdir, name):
     return None
 
 
-@app.route("/api/render-comparison", methods=["POST", "OPTIONS"])
+@app.route("/api/render-comparison", methods=["POST"])
 def api_render_comparison():
-    if request.method == "OPTIONS":
-        return "", 204
-
     payload = request.get_json(force=True)
     original_b64 = payload.get("original_base64")
     formatted_b64 = payload.get("formatted_base64")
@@ -203,27 +194,16 @@ def health():
 
 
 def _find_dev_certs():
-    """office-addin-dev-certs installs to ~/.office-addin-dev-certs on
-    every platform (Windows resolves ~ to %USERPROFILE%)."""
-    cert_dir = os.path.expanduser("~/.office-addin-dev-certs")
-    cert = os.path.join(cert_dir, "localhost.crt")
-    key = os.path.join(cert_dir, "localhost.key")
-    if os.path.exists(cert) and os.path.exists(key):
-        return cert, key
-    return None
+    """Generate (or reuse) a self-signed certificate in pure Python -- no
+    Node.js/npx required. See certs.py for details."""
+    from certs import ensure_cert
+    return ensure_cert()
 
 
 if __name__ == "__main__":
-    certs = _find_dev_certs()
-    if not certs:
-        print("=" * 70)
-        print("No dev certs found at ~/.office-addin-dev-certs/")
-        print("Office Add-ins require HTTPS. Run this first:")
-        print("    npx office-addin-dev-certs install")
-        print("Then re-run this server.")
-        print("=" * 70)
-        sys.exit(1)
-
-    cert, key = certs
-    print(f"Serving DocFlow add-in at https://localhost:3000  (cert: {cert})")
+    cert, key = _find_dev_certs()
+    print(f"Serving DocFlow at https://localhost:3000  (cert: {cert})")
+    print("First time running this? See README: you need to trust this")
+    print("certificate once (run trust_certificate.ps1) before Word/your")
+    print("browser will accept it without a warning.")
     app.run(host="localhost", port=3000, ssl_context=(cert, key), debug=False)
