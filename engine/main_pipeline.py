@@ -10,7 +10,7 @@ Usage:
 import sys
 import time
 
-from parser import parse_docx
+from engine.docx_parser import parse_docx
 from classifier_stub import classify_batch
 from formatting_engine import format_document
 from validation import validate_output

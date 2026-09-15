@@ -10,7 +10,7 @@ import os
 import re
 from typing import Tuple
 
-from parser import FEATURE_COLUMNS, ElementRecord
+from engine.docx_parser import FEATURE_COLUMNS, ElementRecord
 
 # --- Must match model/feature_spec.md LABEL_MAP exactly ---
 LABEL_MAP = {

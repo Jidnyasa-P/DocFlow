@@ -1,0 +1,207 @@
+/* DocFlow task pane — editorial / print-proof aesthetic.
+   System fonts only (Georgia + Segoe UI) so the add-in never depends on a
+   font CDN — consistent with the "fully offline" requirement. Georgia
+   carries the book/manuscript character for headings; Segoe UI is Word's
+   own native UI font for everything functional, so controls feel native
+   to the host rather than like a foreign web widget. */
+
+:root {
+  --paper: #F6F3EC;
+  --ink: #1B1B1F;
+  --rule: #D8D2C4;
+  --red: #B3261E;
+  --press: #17324D;
+  --press-dark: #0F2233;
+  --muted: #6B6558;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Segoe UI", Calibri, Arial, sans-serif;
+  font-size: 13px;
+}
+
+.pane {
+  padding: 20px 18px 28px;
+  max-width: 480px;
+}
+
+/* ---- Masthead ---- */
+.masthead {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 18px;
+}
+
+.mark { flex: 0 0 auto; }
+
+.masthead-text h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 21px;
+  font-weight: 700;
+  margin: 0;
+  letter-spacing: 0.2px;
+}
+
+.masthead-text p {
+  margin: 2px 0 0;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+/* ---- Action ---- */
+.action { margin-bottom: 22px; }
+
+.stamp-btn {
+  width: 100%;
+  padding: 12px 16px;
+  background: var(--press);
+  color: var(--paper);
+  border: none;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+  cursor: pointer;
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,0.08);
+  transition: background 120ms ease, transform 80ms ease;
+}
+.stamp-btn:hover { background: var(--press-dark); }
+.stamp-btn:active { transform: translateY(1px); }
+.stamp-btn:disabled { background: #9AA5AD; cursor: default; }
+
+.status-line {
+  margin: 10px 2px 0;
+  font-size: 12.5px;
+  color: var(--muted);
+  min-height: 16px;
+}
+.status-line.error { color: var(--red); }
+.status-line.done { color: #3D5A40; }
+
+/* ---- Compare (slider) ---- */
+.compare { margin-bottom: 22px; }
+
+.compare h2, .colophon h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 14px;
+  font-weight: 700;
+  margin: 0 0 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.slider-wrap { position: relative; }
+
+.slider-frame {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  overflow: hidden;
+  border: 1px solid var(--rule);
+  background: #fff;
+}
+
+.slide-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+}
+
+.slide-img-clip {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  clip-path: inset(0 50% 0 0);
+}
+.slide-img-clip img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: top center; }
+
+.handle {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  transform: translateX(-50%);
+  pointer-events: none;
+}
+.handle-line {
+  position: absolute;
+  top: 0; bottom: 0; left: 50%;
+  width: 2px;
+  background: var(--red);
+  transform: translateX(-50%);
+}
+.handle-grip {
+  position: absolute;
+  top: 50%; left: 50%;
+  width: 30px; height: 30px;
+  background: var(--red);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  display: flex; align-items: center; justify-content: center;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.35);
+}
+
+#sliderInput {
+  width: 100%;
+  margin-top: 10px;
+  accent-color: var(--red);
+}
+
+.slide-caption {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: 2px;
+  font-variant: small-caps;
+}
+
+.mock-note {
+  font-size: 11px;
+  color: var(--muted);
+  font-style: italic;
+  margin: 8px 2px 0;
+}
+
+/* ---- Colophon (stats) ---- */
+.colophon dl { margin: 0; }
+.colophon .row {
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 0;
+  border-bottom: 1px dotted var(--rule);
+  font-size: 12.5px;
+}
+.colophon .row:last-child { border-bottom: none; }
+.colophon dt { color: var(--muted); }
+.colophon dd {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 700;
+}
+
+.download-link {
+  display: block;
+  text-align: center;
+  margin-top: 14px;
+  padding: 10px;
+  border: 1px solid var(--press);
+  color: var(--press);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 13px;
+}
+.download-link:hover { background: var(--press); color: var(--paper); }
+
+.hidden { display: none !important; }
